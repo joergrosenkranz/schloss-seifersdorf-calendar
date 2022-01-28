@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        #top3calendar { color: #716464; font-size: 16px; font-family: "Source Sans Pro", sans-serif; text-align: center;  }
+        ul { max-width: 400px; }
+        a { color: #716464; }
+    </style>
+</head>
+<body>
+    <!-- Start -->
+    <div id="top3calendar" />
+    <script type="text/javascript">
+        (function() {
+        var request = new XMLHttpRequest();
+        request.open('GET', 'https://joergrosenkranz.github.io/schloss-seifersdorf-calendar/calendar.json', true);
+        request.onload = function() {
+          if (request.status >= 200 && request.status < 400) {
+            var data = JSON.parse(request.responseText);
+            if (data && data.items && Array.isArray(data.items)) {
+              var calendar = document.getElementById("top3calendar");
+              calendar.innerHTML = "";
+              var ul = document.createElement("ul");
+              ul.style = "list-style: none;  margin: 0 auto; padding: 0;";
+
+              calendar.appendChild(ul);
+
+              data.items.forEach(item => {
+                  var li = document.createElement("li");
+                  li.style = "margin-bottom: 1em";
+
+                  var date = new Date(item.start.dateTime);
+                  var formattedDate = date.toLocaleDateString("de-DE");
+                  var formattedTime = date.toLocaleTimeString("de-DE", { hour: '2-digit', minute: '2-digit' });
+
+                  if ( formattedTime != "00:00" )
+                    formattedDate += " " + formattedTime;
+
+                  var dateElem = document.createElement("div");
+                  dateElem.style = "font-weight: bold; font-size: 1em;";
+                  dateElem.appendChild(document.createTextNode(formattedDate));
+                  li.appendChild(dateElem);
+
+                  var title = document.createElement("a");
+                  title.href = item.htmlLink;
+                  title.target = '_blank';
+                  title.style = "font-size: 1.2em; margin: 2px 0;";
+
+                  title.appendChild(document.createTextNode(item.summary));
+                  li.appendChild(title);
+
+                  var description = document.createElement("div");
+                  description.style = "font-size: 0.8em";
+                  description.appendChild(document.createTextNode(item.description));
+                  li.appendChild(description);
+
+                  ul.appendChild(li);
+              });
+          }
+        }};
+        request.send();
+      })();
+    </script>
+    <!-- End -->
+</body>
+</html>
