@@ -1,0 +1,59 @@
+# This is a basic workflow to help you get started with Actions
+
+name: Download
+
+# Controls when the workflow will run
+on:
+  schedule:
+    - cron: "*/15 * * * *"
+    
+  # Allows you to run this workflow manually from the Actions tab
+  workflow_dispatch:
+
+# A workflow run is made up of one or more jobs that can run sequentially or in parallel
+jobs:
+  # This workflow contains a single job called "build"
+  build:
+    # The type of runner that the job will run on
+    runs-on: ubuntu-latest
+
+    # Steps represent a sequence of tasks that will be executed as part of the job
+    steps:
+      # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
+      - uses: actions/checkout@v2
+
+      - name: Update calendar
+        run: |
+          urlencode() {
+              # urlencode <string>
+
+              old_lc_collate=$LC_COLLATE
+              LC_COLLATE=C
+
+              local length="${#1}"
+              for (( i = 0; i < length; i++ )); do
+                  local c="${1:$i:1}"
+                  case $c in
+                      [a-zA-Z0-9.~_-]) printf '%s' "$c" ;;
+                      *) printf '%%%02X' "'$c" ;;
+                  esac
+              done
+
+              LC_COLLATE=$old_lc_collate
+          }
+          
+          export TZ=Europe/Berlin
+          CURRENT_DATE=$(date '+%FT%T%:z')
+          echo "Current date: $CURRENT_DATE"
+          CURRENT_DATE=$(urlencode "$CURRENT_DATE")
+          echo "Current date: $CURRENT_DATE"
+          curl "https://www.googleapis.com/calendar/v3/calendars/${{ secrets.CALENDAR_ID }}%40group.calendar.google.com/events?maxResults=3&orderBy=startTime&singleEvents=true&timeMin=$CURRENT_DATE&fields=items(description%2Cend%2ChtmlLink%2Cstart%2Csummary)&key=${{ secrets.API_KEY }}" > calendar.json
+        
+      - name: Commit change
+        run: |
+          git diff --exit-code && exit 0    # Nothing to commit
+          
+          git config --global user.name 'Automat'
+          git config --global user.email 'automat@example.com'
+          git commit -am "Calendar changed"
+          git push
