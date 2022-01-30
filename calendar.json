@@ -2,14 +2,14 @@
  "items": [
   {
    "htmlLink": "https://www.google.com/calendar/event?eid=Z2tiOWtmczFwZWcxYjQ3dWFxamJpM2gzZmNfMjAyMjAyMDJUMTgwMDAwWiAxY3E5NmEwN2tmYmh1ZHBiMWRzN2k3MjVxY0Bn",
-   "summary": "Vorstandssitzung",
+   "summary": "Videovorstandssitzung",
    "description": "Vorstandssitzung des Fördervereins ",
    "start": {
-    "dateTime": "2022-02-02T19:00:00+01:00",
+    "dateTime": "2022-02-03T19:00:00+01:00",
     "timeZone": "Europe/Berlin"
    },
    "end": {
-    "dateTime": "2022-02-02T21:30:00+01:00",
+    "dateTime": "2022-02-03T21:30:00+01:00",
     "timeZone": "Europe/Berlin"
    }
   },
