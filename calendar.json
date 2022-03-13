@@ -13,18 +13,6 @@
    }
   },
   {
-   "htmlLink": "https://www.google.com/calendar/event?eid=NGplOXFvdG01Z2ZmbTBsbnI3cmNvdjNudGsgMWNxOTZhMDdrZmJodWRwYjFkczdpNzI1cWNAZw",
-   "summary": "Kino im Schloss",
-   "start": {
-    "dateTime": "2022-03-25T19:00:00+01:00",
-    "timeZone": "Europe/Berlin"
-   },
-   "end": {
-    "dateTime": "2022-03-25T20:00:00+01:00",
-    "timeZone": "Europe/Berlin"
-   }
-  },
-  {
    "htmlLink": "https://www.google.com/calendar/event?eid=NW40anJzZG4zcGt1MzhtMzQ5aXN0bG9ucXNfMjAyMjA0MDNUMTIwMDAwWiAxY3E5NmEwN2tmYmh1ZHBiMWRzN2k3MjVxY0Bn",
    "summary": "Offenes Schloss",
    "description": "Schloss geöffnet mit Führungen durch das Gebäude, 14.00 bis 17.00 Uhr, mit Kaffee und Kuchen im Saal\nDie Seifersdorfer Kirche ist zeitgleich zu besichtigen.",
@@ -34,6 +22,19 @@
    },
    "end": {
     "dateTime": "2022-04-03T17:00:00+02:00",
+    "timeZone": "Europe/Berlin"
+   }
+  },
+  {
+   "htmlLink": "https://www.google.com/calendar/event?eid=NHBmOTJvcWZjZDFxbWZtbnR1aDQ1YTNwaHQgMWNxOTZhMDdrZmJodWRwYjFkczdpNzI1cWNAZw",
+   "summary": "„Schloss Seifersdorf – Aspekte der Kunstgeschichte, Baugeschichte und Denkmalpflege“",
+   "description": "mit Dr. Ulrich Rosner, zuständiger Gebietsreferent des Landesamtes für Denkmalpflege Sachsen",
+   "start": {
+    "dateTime": "2022-04-03T17:00:00+02:00",
+    "timeZone": "Europe/Berlin"
+   },
+   "end": {
+    "dateTime": "2022-04-03T19:00:00+02:00",
     "timeZone": "Europe/Berlin"
    }
   }
