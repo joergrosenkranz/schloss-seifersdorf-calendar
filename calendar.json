@@ -1,19 +1,6 @@
 {
  "items": [
   {
-   "htmlLink": "https://www.google.com/calendar/event?eid=NHBmOTJvcWZjZDFxbWZtbnR1aDQ1YTNwaHQgMWNxOTZhMDdrZmJodWRwYjFkczdpNzI1cWNAZw",
-   "summary": "„Schloss Seifersdorf – Aspekte der Kunstgeschichte, Baugeschichte und Denkmalpflege“",
-   "description": "mit Dr. Ulrich Rosner, zuständiger Gebietsreferent des Landesamtes für Denkmalpflege Sachsen",
-   "start": {
-    "dateTime": "2022-04-03T17:00:00+02:00",
-    "timeZone": "Europe/Berlin"
-   },
-   "end": {
-    "dateTime": "2022-04-03T19:00:00+02:00",
-    "timeZone": "Europe/Berlin"
-   }
-  },
-  {
    "htmlLink": "https://www.google.com/calendar/event?eid=Z2tiOWtmczFwZWcxYjQ3dWFxamJpM2gzZmNfMjAyMjA0MDZUMTcwMDAwWiAxY3E5NmEwN2tmYmh1ZHBiMWRzN2k3MjVxY0Bn",
    "summary": "Vorstandssitzung",
    "description": "Vorstandssitzung des Fördervereins ",
@@ -35,6 +22,19 @@
    },
    "end": {
     "dateTime": "2022-04-22T21:00:00+02:00",
+    "timeZone": "Europe/Berlin"
+   }
+  },
+  {
+   "htmlLink": "https://www.google.com/calendar/event?eid=NW40anJzZG4zcGt1MzhtMzQ5aXN0bG9ucXNfMjAyMjA1MDFUMTIwMDAwWiAxY3E5NmEwN2tmYmh1ZHBiMWRzN2k3MjVxY0Bn",
+   "summary": "Offenes Schloss",
+   "description": "Schloss geöffnet mit Führungen durch das Gebäude, 14.00 bis 17.00 Uhr, mit Kaffee und Kuchen im Saal\nDie Seifersdorfer Kirche ist zeitgleich zu besichtigen.",
+   "start": {
+    "dateTime": "2022-05-01T14:00:00+02:00",
+    "timeZone": "Europe/Berlin"
+   },
+   "end": {
+    "dateTime": "2022-05-01T17:00:00+02:00",
     "timeZone": "Europe/Berlin"
    }
   }
