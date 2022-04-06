@@ -1,19 +1,6 @@
 {
  "items": [
   {
-   "htmlLink": "https://www.google.com/calendar/event?eid=Z2tiOWtmczFwZWcxYjQ3dWFxamJpM2gzZmNfMjAyMjA0MDZUMTcwMDAwWiAxY3E5NmEwN2tmYmh1ZHBiMWRzN2k3MjVxY0Bn",
-   "summary": "Vorstandssitzung",
-   "description": "Vorstandssitzung des Fördervereins ",
-   "start": {
-    "dateTime": "2022-04-06T19:00:00+02:00",
-    "timeZone": "Europe/Berlin"
-   },
-   "end": {
-    "dateTime": "2022-04-06T21:30:00+02:00",
-    "timeZone": "Europe/Berlin"
-   }
-  },
-  {
    "htmlLink": "https://www.google.com/calendar/event?eid=Mm1xOTI4cm5lbTE5NzhuZ2k5a2lrdmY1ZnMgMWNxOTZhMDdrZmJodWRwYjFkczdpNzI1cWNAZw",
    "summary": "Kino im Schloss",
    "start": {
@@ -35,6 +22,19 @@
    },
    "end": {
     "dateTime": "2022-05-01T17:00:00+02:00",
+    "timeZone": "Europe/Berlin"
+   }
+  },
+  {
+   "htmlLink": "https://www.google.com/calendar/event?eid=Z2tiOWtmczFwZWcxYjQ3dWFxamJpM2gzZmNfMjAyMjA1MDRUMTcwMDAwWiAxY3E5NmEwN2tmYmh1ZHBiMWRzN2k3MjVxY0Bn",
+   "summary": "Vorstandssitzung",
+   "description": "Vorstandssitzung des Fördervereins ",
+   "start": {
+    "dateTime": "2022-05-04T19:00:00+02:00",
+    "timeZone": "Europe/Berlin"
+   },
+   "end": {
+    "dateTime": "2022-05-04T21:30:00+02:00",
     "timeZone": "Europe/Berlin"
    }
   }
