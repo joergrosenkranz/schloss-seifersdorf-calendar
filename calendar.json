@@ -2,7 +2,8 @@
  "items": [
   {
    "htmlLink": "https://www.google.com/calendar/event?eid=Mm1xOTI4cm5lbTE5NzhuZ2k5a2lrdmY1ZnMgMWNxOTZhMDdrZmJodWRwYjFkczdpNzI1cWNAZw",
-   "summary": "Kino im Schloss",
+   "summary": "Amerikas Westküste",
+   "description": "Von der Golden Gate nach Alcatraz, Las Vegas und L.A. \nEin Vortrag von Hella und Lothar Israel",
    "start": {
     "dateTime": "2022-04-22T20:00:00+02:00",
     "timeZone": "Europe/Berlin"
