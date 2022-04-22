@@ -1,19 +1,6 @@
 {
  "items": [
   {
-   "htmlLink": "https://www.google.com/calendar/event?eid=Mm1xOTI4cm5lbTE5NzhuZ2k5a2lrdmY1ZnMgMWNxOTZhMDdrZmJodWRwYjFkczdpNzI1cWNAZw",
-   "summary": "Amerikas Westküste",
-   "description": "Von der Golden Gate nach Alcatraz, Las Vegas und L.A. \nEin Vortrag von Hella und Lothar Israel",
-   "start": {
-    "dateTime": "2022-04-22T20:00:00+02:00",
-    "timeZone": "Europe/Berlin"
-   },
-   "end": {
-    "dateTime": "2022-04-22T21:00:00+02:00",
-    "timeZone": "Europe/Berlin"
-   }
-  },
-  {
    "htmlLink": "https://www.google.com/calendar/event?eid=NW40anJzZG4zcGt1MzhtMzQ5aXN0bG9ucXNfMjAyMjA1MDFUMTIwMDAwWiAxY3E5NmEwN2tmYmh1ZHBiMWRzN2k3MjVxY0Bn",
    "summary": "Offenes Schloss",
    "description": "Schloss geöffnet mit Führungen durch das Gebäude, 14.00 bis 17.00 Uhr, mit Kaffee und Kuchen im Saal\nDie Seifersdorfer Kirche ist zeitgleich zu besichtigen.",
@@ -36,6 +23,19 @@
    },
    "end": {
     "dateTime": "2022-05-04T21:30:00+02:00",
+    "timeZone": "Europe/Berlin"
+   }
+  },
+  {
+   "htmlLink": "https://www.google.com/calendar/event?eid=N3Nhc2NyMjBoc2Rob2JhdGd2NnBwdmNuM2UgMWNxOTZhMDdrZmJodWRwYjFkczdpNzI1cWNAZw",
+   "summary": "Festkonzert zum 250. Geburtstag von Carl von Brühl und Auftakt zum \"1. Seifersdorfer Schloss- und Parksommer\"",
+   "description": "Studentinnen und Studenten der Hochschule für Musik \"Carl Maria von Weber\" treten auf und präsentieren u.a. Ausschnitte aus dem \"Freischütz\"",
+   "start": {
+    "dateTime": "2022-05-15T15:00:00+02:00",
+    "timeZone": "Europe/Berlin"
+   },
+   "end": {
+    "dateTime": "2022-05-15T16:00:00+02:00",
     "timeZone": "Europe/Berlin"
    }
   }
