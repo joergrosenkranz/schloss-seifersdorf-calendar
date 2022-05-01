@@ -1,19 +1,6 @@
 {
  "items": [
   {
-   "htmlLink": "https://www.google.com/calendar/event?eid=NW40anJzZG4zcGt1MzhtMzQ5aXN0bG9ucXNfMjAyMjA1MDFUMTIwMDAwWiAxY3E5NmEwN2tmYmh1ZHBiMWRzN2k3MjVxY0Bn",
-   "summary": "Offenes Schloss",
-   "description": "Schloss geöffnet mit Führungen durch das Gebäude, 14.00 bis 17.00 Uhr, mit Kaffee und Kuchen im Saal\nDie Seifersdorfer Kirche ist zeitgleich zu besichtigen.",
-   "start": {
-    "dateTime": "2022-05-01T14:00:00+02:00",
-    "timeZone": "Europe/Berlin"
-   },
-   "end": {
-    "dateTime": "2022-05-01T17:00:00+02:00",
-    "timeZone": "Europe/Berlin"
-   }
-  },
-  {
    "htmlLink": "https://www.google.com/calendar/event?eid=Z2tiOWtmczFwZWcxYjQ3dWFxamJpM2gzZmNfMjAyMjA1MDRUMTcwMDAwWiAxY3E5NmEwN2tmYmh1ZHBiMWRzN2k3MjVxY0Bn",
    "summary": "Vorstandssitzung",
    "description": "Vorstandssitzung des Fördervereins ",
@@ -36,6 +23,19 @@
    },
    "end": {
     "dateTime": "2022-05-15T16:00:00+02:00",
+    "timeZone": "Europe/Berlin"
+   }
+  },
+  {
+   "htmlLink": "https://www.google.com/calendar/event?eid=NXRsZzY3OTc4dWpyZXVpMDFqZnY1NmVuMDUgMWNxOTZhMDdrZmJodWRwYjFkczdpNzI1cWNAZw",
+   "summary": "Vortrag „Carl von Brühl“",
+   "description": "\u003cp\u003e1. Seifersdorfer Schloss- und Parksommer zum 250. Geburtstag von Carl von Brühl\u003cu\u003e\u003c/u\u003e\u003cu\u003e\u003c/u\u003e\u003c/p\u003e\u003cp\u003eCarl von Brühl - Theaterintendant, Goethe-Liebling und Förderer. Zum 250. Geburtstag des Seifersdorfers Schlossherrn (1772 Pförten - 1837 Berlin - beigesetzt in Seifersdorf)\u003cu\u003e\u003c/u\u003e\u003cu\u003e\u003c/u\u003e\u003c/p\u003e\u003cp\u003eVortrag von Dr. Romy Petrick\u003c/p\u003e",
+   "start": {
+    "dateTime": "2022-05-22T15:00:00+02:00",
+    "timeZone": "Europe/Berlin"
+   },
+   "end": {
+    "dateTime": "2022-05-22T17:30:00+02:00",
     "timeZone": "Europe/Berlin"
    }
   }
