@@ -27,16 +27,13 @@
    }
   },
   {
-   "htmlLink": "https://www.google.com/calendar/event?eid=NW40anJzZG4zcGt1MzhtMzQ5aXN0bG9ucXNfMjAyMjA2MDVUMTIwMDAwWiAxY3E5NmEwN2tmYmh1ZHBiMWRzN2k3MjVxY0Bn",
-   "summary": "1. Seifersdorfer Schloss- und Parksommer zum 250. Geburtstag von Carl von Brühl",
-   "description": "\u003cp\u003eOffenes Schloss mit dem Barock- und Tanztheater Dresden mit historischen Tänzen im Schlosspark\u003cu\u003e\u003c/u\u003e\u003cu\u003e\u003c/u\u003e\u003c/p\u003e\u003cp\u003eSchloss geöffnet mit Führungen durch das Gebäude, 14.00 bis 17.00 Uhr, mit Kaffee und Kuchen im Saal. Die Seifersdorfer Kirche ist zeitgleich zu besichtigen.\u003c/p\u003e",
+   "htmlLink": "https://www.google.com/calendar/event?eid=NG9nZmtrMnIzOTlnNGdpZjVpNWJnbmdhNmwgMWNxOTZhMDdrZmJodWRwYjFkczdpNzI1cWNAZw",
+   "summary": "Talgottesdienst und Pfingstsingen im Tal",
    "start": {
-    "dateTime": "2022-06-05T14:00:00+02:00",
-    "timeZone": "Europe/Berlin"
+    "date": "2022-06-05"
    },
    "end": {
-    "dateTime": "2022-06-05T17:00:00+02:00",
-    "timeZone": "Europe/Berlin"
+    "date": "2022-06-06"
    }
   }
  ]
