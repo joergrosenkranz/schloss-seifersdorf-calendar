@@ -1,19 +1,6 @@
 {
  "items": [
   {
-   "htmlLink": "https://www.google.com/calendar/event?eid=NXRsZzY3OTc4dWpyZXVpMDFqZnY1NmVuMDUgMWNxOTZhMDdrZmJodWRwYjFkczdpNzI1cWNAZw",
-   "summary": "Vortrag „Carl von Brühl“",
-   "description": "\u003cp\u003e1. Seifersdorfer Schloss- und Parksommer zum 250. Geburtstag von Carl von Brühl\u003cu\u003e\u003c/u\u003e\u003cu\u003e\u003c/u\u003e\u003c/p\u003e\u003cp\u003eCarl von Brühl - Theaterintendant, Goethe-Liebling und Förderer. Zum 250. Geburtstag des Seifersdorfers Schlossherrn (1772 Pförten - 1837 Berlin - beigesetzt in Seifersdorf)\u003cu\u003e\u003c/u\u003e\u003cu\u003e\u003c/u\u003e\u003c/p\u003e\u003cp\u003eVortrag von Dr. Romy Petrick\u003c/p\u003e",
-   "start": {
-    "dateTime": "2022-05-22T15:00:00+02:00",
-    "timeZone": "Europe/Berlin"
-   },
-   "end": {
-    "dateTime": "2022-05-22T17:30:00+02:00",
-    "timeZone": "Europe/Berlin"
-   }
-  },
-  {
    "htmlLink": "https://www.google.com/calendar/event?eid=Z2tiOWtmczFwZWcxYjQ3dWFxamJpM2gzZmNfMjAyMjA2MDFUMTcwMDAwWiAxY3E5NmEwN2tmYmh1ZHBiMWRzN2k3MjVxY0Bn",
    "summary": "Vorstandssitzung",
    "description": "Vorstandssitzung des Fördervereins ",
@@ -34,6 +21,16 @@
    },
    "end": {
     "date": "2022-06-06"
+   }
+  },
+  {
+   "htmlLink": "https://www.google.com/calendar/event?eid=M2szZGtuZHJpOWs0YWtkbjlmbmtmM2EyMHEgMWNxOTZhMDdrZmJodWRwYjFkczdpNzI1cWNAZw",
+   "summary": "Vereinsfahrt nach Groß-Strehlitz (Strzelce Opolskie) in Oberschlesien",
+   "start": {
+    "date": "2022-06-25"
+   },
+   "end": {
+    "date": "2022-06-27"
    }
   }
  ]
