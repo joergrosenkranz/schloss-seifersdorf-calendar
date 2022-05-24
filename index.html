@@ -33,13 +33,22 @@
                   var li = document.createElement("li");
                   li.style = "margin-bottom: 1em";
 
-                  var date = new Date(item.start.dateTime);
-                  var formattedDate = date.toLocaleDateString("de-DE");
-                  var formattedTime = date.toLocaleTimeString("de-DE", { hour: '2-digit', minute: '2-digit' });
+                  var formattedDate;
 
-                  if ( formattedTime != "00:00" )
-                    formattedDate += " " + formattedTime;
+                  if ( item.start.dateTime ) {
+                    var date = new Date(item.start.dateTime);
+                    formattedDate = date.toLocaleDateString("de-DE");
+                    var formattedTime = date.toLocaleTimeString("de-DE", { hour: '2-digit', minute: '2-digit' });
 
+                    if ( formattedTime != "00:00" )
+                      formattedDate += " " + formattedTime;
+                  } else if ( item.start.date ) {
+                    date = new Date(item.start.date);
+                    formattedDate = date.toLocaleDateString("de-DE");
+                  }
+                  else {
+                    formattedDate = "Unbekanntes Datum";
+                  }
                   var dateElem = document.createElement("div");
                   dateElem.style = "font-weight: bold; font-size: 1em;";
                   dateElem.appendChild(document.createTextNode(formattedDate));
