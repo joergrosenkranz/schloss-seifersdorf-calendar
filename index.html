@@ -59,13 +59,17 @@
                   title.target = '_blank';
                   title.style = "font-size: 1.2em; margin: 2px 0;";
 
-                  title.appendChild(document.createTextNode(item.summary));
-                  li.appendChild(title);
+                  if ( item.summary ) {
+                    title.appendChild(document.createTextNode(item.summary));
+                    li.appendChild(title);
+                  }
 
-                  var description = document.createElement("div");
-                  description.style = "font-size: 0.8em";
-                  description.appendChild(document.createTextNode(item.description));
-                  li.appendChild(description);
+                  if ( item.description ) {
+                    var description = document.createElement("div");
+                    description.style = "font-size: 0.8em";
+                    description.appendChild(document.createTextNode(item.description));
+                    li.appendChild(description);
+                  }
 
                   ul.appendChild(li);
               });
