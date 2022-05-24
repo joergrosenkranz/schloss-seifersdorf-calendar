@@ -24,13 +24,16 @@
    }
   },
   {
-   "htmlLink": "https://www.google.com/calendar/event?eid=M2szZGtuZHJpOWs0YWtkbjlmbmtmM2EyMHEgMWNxOTZhMDdrZmJodWRwYjFkczdpNzI1cWNAZw",
-   "summary": "Vereinsfahrt nach Groß-Strehlitz (Strzelce Opolskie) in Oberschlesien",
+   "htmlLink": "https://www.google.com/calendar/event?eid=NW5ibGx0ZTl2N2NvNTgyY2Mwbzhpdm9pZG4gMWNxOTZhMDdrZmJodWRwYjFkczdpNzI1cWNAZw",
+   "summary": "Konzert \"Quirlig dramatisch - Heiter apathisch\" ",
+   "description": "Lieder von Johannes Brahms und Gustav Mahler.",
    "start": {
-    "date": "2022-06-25"
+    "dateTime": "2022-06-19T17:00:00+02:00",
+    "timeZone": "Europe/Berlin"
    },
    "end": {
-    "date": "2022-06-27"
+    "dateTime": "2022-06-19T18:00:00+02:00",
+    "timeZone": "Europe/Berlin"
    }
   }
  ]
