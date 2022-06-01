@@ -1,19 +1,6 @@
 {
  "items": [
   {
-   "htmlLink": "https://www.google.com/calendar/event?eid=Z2tiOWtmczFwZWcxYjQ3dWFxamJpM2gzZmNfMjAyMjA2MDFUMTcwMDAwWiAxY3E5NmEwN2tmYmh1ZHBiMWRzN2k3MjVxY0Bn",
-   "summary": "Vorstandssitzung",
-   "description": "Vorstandssitzung des Fördervereins ",
-   "start": {
-    "dateTime": "2022-06-01T19:00:00+02:00",
-    "timeZone": "Europe/Berlin"
-   },
-   "end": {
-    "dateTime": "2022-06-01T21:30:00+02:00",
-    "timeZone": "Europe/Berlin"
-   }
-  },
-  {
    "htmlLink": "https://www.google.com/calendar/event?eid=NG9nZmtrMnIzOTlnNGdpZjVpNWJnbmdhNmwgMWNxOTZhMDdrZmJodWRwYjFkczdpNzI1cWNAZw",
    "summary": "Talgottesdienst und Pfingstsingen im Tal",
    "start": {
@@ -34,6 +21,16 @@
    "end": {
     "dateTime": "2022-06-19T18:00:00+02:00",
     "timeZone": "Europe/Berlin"
+   }
+  },
+  {
+   "htmlLink": "https://www.google.com/calendar/event?eid=M2szZGtuZHJpOWs0YWtkbjlmbmtmM2EyMHEgMWNxOTZhMDdrZmJodWRwYjFkczdpNzI1cWNAZw",
+   "summary": "Vereinsfahrt nach Groß-Strehlitz (Strzelce Opolskie) in Oberschlesien",
+   "start": {
+    "date": "2022-06-25"
+   },
+   "end": {
+    "date": "2022-06-27"
    }
   }
  ]
