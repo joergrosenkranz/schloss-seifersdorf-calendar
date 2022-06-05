@@ -1,16 +1,6 @@
 {
  "items": [
   {
-   "htmlLink": "https://www.google.com/calendar/event?eid=NG9nZmtrMnIzOTlnNGdpZjVpNWJnbmdhNmwgMWNxOTZhMDdrZmJodWRwYjFkczdpNzI1cWNAZw",
-   "summary": "Talgottesdienst und Pfingstsingen im Tal",
-   "start": {
-    "date": "2022-06-05"
-   },
-   "end": {
-    "date": "2022-06-06"
-   }
-  },
-  {
    "htmlLink": "https://www.google.com/calendar/event?eid=NW5ibGx0ZTl2N2NvNTgyY2Mwbzhpdm9pZG4gMWNxOTZhMDdrZmJodWRwYjFkczdpNzI1cWNAZw",
    "summary": "Konzert \"Quirlig dramatisch - Heiter apathisch\" ",
    "description": "Lieder von Johannes Brahms und Gustav Mahler.",
@@ -31,6 +21,19 @@
    },
    "end": {
     "date": "2022-06-27"
+   }
+  },
+  {
+   "htmlLink": "https://www.google.com/calendar/event?eid=NW40anJzZG4zcGt1MzhtMzQ5aXN0bG9ucXNfMjAyMjA3MDNUMTIwMDAwWiAxY3E5NmEwN2tmYmh1ZHBiMWRzN2k3MjVxY0Bn",
+   "summary": "1. Seifersdorfer Schloss- und Parksommer zum 250. Geburtstag von Carl von Brühl",
+   "description": "\u003chtml-blob\u003eOffenes Schloss mit Handmade-Markt im Schlosspark (am Teehaus) ab 12.00 Uhr.\u003cbr\u003e\u003c/html-blob\u003e\u003cbr\u003e\u003chtml-blob\u003e\u003cbr\u003e\u003c/html-blob\u003e\u003cbr\u003e\u003chtml-blob\u003eSchloss geöffnet mit Führungen durch das Gebäude, 14.00 bis 17.00 Uhr, mit Kaffee und Kuchen im Saal\u003cbr\u003eDie Seifersdorfer Kirche ist zeitgleich zu besichtigen.\u003c/html-blob\u003e",
+   "start": {
+    "dateTime": "2022-07-03T12:00:00+02:00",
+    "timeZone": "Europe/Berlin"
+   },
+   "end": {
+    "dateTime": "2022-07-03T15:00:00+02:00",
+    "timeZone": "Europe/Berlin"
    }
   }
  ]
