@@ -26,7 +26,7 @@
   {
    "htmlLink": "https://www.google.com/calendar/event?eid=NW40anJzZG4zcGt1MzhtMzQ5aXN0bG9ucXNfMjAyMjA3MDNUMTIwMDAwWiAxY3E5NmEwN2tmYmh1ZHBiMWRzN2k3MjVxY0Bn",
    "summary": "1. Seifersdorfer Schloss- und Parksommer zum 250. Geburtstag von Carl von Brühl",
-   "description": "\u003chtml-blob\u003eOffenes Schloss mit Handmade-Markt im Schlosspark (am Teehaus) ab 12.00 Uhr.\u003cbr\u003e\u003c/html-blob\u003e\u003cbr\u003e\u003chtml-blob\u003e\u003cbr\u003e\u003c/html-blob\u003e\u003cbr\u003e\u003chtml-blob\u003eSchloss geöffnet mit Führungen durch das Gebäude, 14.00 bis 17.00 Uhr, mit Kaffee und Kuchen im Saal\u003cbr\u003eDie Seifersdorfer Kirche ist zeitgleich zu besichtigen.\u003c/html-blob\u003e",
+   "description": "\u003cp\u003eHandmade-Markt im Schlosspark (am Teehaus) von 11.00 Uhr bis 18.00 Uhr\u003cu\u003e\u003c/u\u003e\u003cu\u003e\u003c/u\u003e\u003c/p\u003e\u003cp\u003eKaffee und Kuchen sowie Grillstand am Teehaus\u003cu\u003e\u003c/u\u003e\u003cu\u003e\u003c/u\u003e\u003c/p\u003e\u003cp\u003eSchlossführungen finden nur von draußen statt!\u003c/p\u003e",
    "start": {
     "dateTime": "2022-07-03T12:00:00+02:00",
     "timeZone": "Europe/Berlin"
