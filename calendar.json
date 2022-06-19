@@ -1,19 +1,6 @@
 {
  "items": [
   {
-   "htmlLink": "https://www.google.com/calendar/event?eid=NW5ibGx0ZTl2N2NvNTgyY2Mwbzhpdm9pZG4gMWNxOTZhMDdrZmJodWRwYjFkczdpNzI1cWNAZw",
-   "summary": "Konzert \"Quirlig dramatisch - Heiter apathisch\" ",
-   "description": "Lieder von Johannes Brahms und Gustav Mahler.",
-   "start": {
-    "dateTime": "2022-06-19T17:00:00+02:00",
-    "timeZone": "Europe/Berlin"
-   },
-   "end": {
-    "dateTime": "2022-06-19T18:00:00+02:00",
-    "timeZone": "Europe/Berlin"
-   }
-  },
-  {
    "htmlLink": "https://www.google.com/calendar/event?eid=M2szZGtuZHJpOWs0YWtkbjlmbmtmM2EyMHEgMWNxOTZhMDdrZmJodWRwYjFkczdpNzI1cWNAZw",
    "summary": "Vereinsfahrt nach Groß-Strehlitz (Strzelce Opolskie) in Oberschlesien",
    "start": {
@@ -33,6 +20,19 @@
    },
    "end": {
     "dateTime": "2022-07-03T15:00:00+02:00",
+    "timeZone": "Europe/Berlin"
+   }
+  },
+  {
+   "htmlLink": "https://www.google.com/calendar/event?eid=Z2tiOWtmczFwZWcxYjQ3dWFxamJpM2gzZmNfMjAyMjA3MDZUMTcwMDAwWiAxY3E5NmEwN2tmYmh1ZHBiMWRzN2k3MjVxY0Bn",
+   "summary": "Vorstandssitzung",
+   "description": "Vorstandssitzung des Fördervereins ",
+   "start": {
+    "dateTime": "2022-07-06T19:00:00+02:00",
+    "timeZone": "Europe/Berlin"
+   },
+   "end": {
+    "dateTime": "2022-07-06T21:30:00+02:00",
     "timeZone": "Europe/Berlin"
    }
   }
