@@ -1,19 +1,6 @@
 {
  "items": [
   {
-   "htmlLink": "https://www.google.com/calendar/event?eid=NW40anJzZG4zcGt1MzhtMzQ5aXN0bG9ucXNfMjAyMjA3MDNUMTIwMDAwWiAxY3E5NmEwN2tmYmh1ZHBiMWRzN2k3MjVxY0Bn",
-   "summary": "1. Seifersdorfer Schloss- und Parksommer zum 250. Geburtstag von Carl von Brühl",
-   "description": "\u003cp\u003eHandmade-Markt im Schlosspark (am Teehaus) von 11.00 Uhr bis 18.00 Uhr\u003cu\u003e\u003c/u\u003e\u003cu\u003e\u003c/u\u003e\u003c/p\u003e\u003cp\u003eKaffee und Kuchen sowie Grillstand am Teehaus\u003cu\u003e\u003c/u\u003e\u003cu\u003e\u003c/u\u003e\u003c/p\u003e\u003cp\u003eSchlossführungen finden nur von draußen statt!\u003c/p\u003e",
-   "start": {
-    "dateTime": "2022-07-03T12:00:00+02:00",
-    "timeZone": "Europe/Berlin"
-   },
-   "end": {
-    "dateTime": "2022-07-03T15:00:00+02:00",
-    "timeZone": "Europe/Berlin"
-   }
-  },
-  {
    "htmlLink": "https://www.google.com/calendar/event?eid=Z2tiOWtmczFwZWcxYjQ3dWFxamJpM2gzZmNfMjAyMjA3MDZUMTcwMDAwWiAxY3E5NmEwN2tmYmh1ZHBiMWRzN2k3MjVxY0Bn",
    "summary": "Vorstandssitzung",
    "description": "Vorstandssitzung des Fördervereins ",
@@ -37,6 +24,17 @@
    "end": {
     "dateTime": "2022-07-17T17:00:00+02:00",
     "timeZone": "Europe/Berlin"
+   }
+  },
+  {
+   "htmlLink": "https://www.google.com/calendar/event?eid=Nzl2MXJxNDdiYzgxZ3AxNWI1Nm5xZTdvMDkgMWNxOTZhMDdrZmJodWRwYjFkczdpNzI1cWNAZw",
+   "summary": "1. Seifersdorfer Schloss- und Parksommer zum 250. Geburtstag von Carl von Brühl",
+   "description": "Kino im Park",
+   "start": {
+    "date": "2022-07-22"
+   },
+   "end": {
+    "date": "2022-07-23"
    }
   }
  ]
