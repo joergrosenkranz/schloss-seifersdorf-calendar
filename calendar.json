@@ -1,19 +1,6 @@
 {
  "items": [
   {
-   "htmlLink": "https://www.google.com/calendar/event?eid=Z2tiOWtmczFwZWcxYjQ3dWFxamJpM2gzZmNfMjAyMjA3MDZUMTcwMDAwWiAxY3E5NmEwN2tmYmh1ZHBiMWRzN2k3MjVxY0Bn",
-   "summary": "Vorstandssitzung",
-   "description": "Vorstandssitzung des Fördervereins ",
-   "start": {
-    "dateTime": "2022-07-06T19:00:00+02:00",
-    "timeZone": "Europe/Berlin"
-   },
-   "end": {
-    "dateTime": "2022-07-06T21:30:00+02:00",
-    "timeZone": "Europe/Berlin"
-   }
-  },
-  {
    "htmlLink": "https://www.google.com/calendar/event?eid=NDQ0Z204NTVlZGZmcXI0NjRudmhkM2Q5azAgMWNxOTZhMDdrZmJodWRwYjFkczdpNzI1cWNAZw",
    "summary": "1. Seifersdorfer Schloss- und Parksommer zum 250. Geburtstag von Carl von Brühl",
    "description": "\u003cp\u003eOffenes Schloss mit Chorkonzert (15.00 Uhr) - Frauenchor Sacka unter Leitung von Jane Taubert\u003cu\u003e\u003c/u\u003e\u003cu\u003e\u003c/u\u003e\u003c/p\u003e\u003cp\u003eSchloss geöffnet mit Führungen durch das Gebäude, 14.00 bis 17.00 Uhr, mit Kaffee und Kuchen im Schlosspark. Die Seifersdorfer Kirche ist zeitgleich zu besichtigen.\u003c/p\u003e",
@@ -35,6 +22,19 @@
    },
    "end": {
     "date": "2022-07-23"
+   }
+  },
+  {
+   "htmlLink": "https://www.google.com/calendar/event?eid=NXBsaHI1MjF2ZnVrcGMxY2czNTEyaDZwdnMgMWNxOTZhMDdrZmJodWRwYjFkczdpNzI1cWNAZw",
+   "summary": "1. Seifersdorfer Schloss- und Parksommer zum 250. Geburtstag von Carl von Brüh",
+   "description": "Schloss geöffnet mit Führungen durch das Gebäude, 14.00 bis 17.00 Uhr, mit Kaffee und Kuchen im Schlosspark. Die Seifersdorfer Kirche ist zeitgleich zu besichtigen.",
+   "start": {
+    "dateTime": "2022-07-31T14:00:00+02:00",
+    "timeZone": "Europe/Berlin"
+   },
+   "end": {
+    "dateTime": "2022-07-31T17:00:00+02:00",
+    "timeZone": "Europe/Berlin"
    }
   }
  ]
