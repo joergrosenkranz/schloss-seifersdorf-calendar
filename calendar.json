@@ -3,7 +3,7 @@
   {
    "htmlLink": "https://www.google.com/calendar/event?eid=NDQ0Z204NTVlZGZmcXI0NjRudmhkM2Q5azAgMWNxOTZhMDdrZmJodWRwYjFkczdpNzI1cWNAZw",
    "summary": "1. Seifersdorfer Schloss- und Parksommer zum 250. Geburtstag von Carl von Brühl",
-   "description": "\u003cp\u003eOffenes Schloss mit Chorkonzert (15.00 Uhr) - Frauenchor Sacka unter Leitung von Jane Taubert\u003cu\u003e\u003c/u\u003e\u003cu\u003e\u003c/u\u003e\u003c/p\u003e\u003cp\u003eSchloss geöffnet mit Führungen durch das Gebäude, 14.00 bis 17.00 Uhr, mit Kaffee und Kuchen im Schlosspark. Die Seifersdorfer Kirche ist zeitgleich zu besichtigen.\u003c/p\u003e",
+   "description": "\u003chtml-blob\u003e\u003cp\u003eOffenes Schloss&nbsp;\u003cu\u003e\u003c/u\u003e\u003c/p\u003e\u003cp\u003eSchloss geöffnet mit Führungen durch das Gebäude, 14.00 bis 17.00 Uhr, mit Kaffee und Kuchen im Schlosspark. Die Seifersdorfer Kirche ist zeitgleich zu besichtigen.\u003c/p\u003e\u003c/html-blob\u003e",
    "start": {
     "dateTime": "2022-07-17T14:00:00+02:00",
     "timeZone": "Europe/Berlin"
@@ -16,7 +16,7 @@
   {
    "htmlLink": "https://www.google.com/calendar/event?eid=Nzl2MXJxNDdiYzgxZ3AxNWI1Nm5xZTdvMDkgMWNxOTZhMDdrZmJodWRwYjFkczdpNzI1cWNAZw",
    "summary": "1. Seifersdorfer Schloss- und Parksommer zum 250. Geburtstag von Carl von Brühl",
-   "description": "Kino im Park",
+   "description": "Kino im Park - „Gundermann“ von Andreas Dresen",
    "start": {
     "date": "2022-07-22"
    },
@@ -27,7 +27,7 @@
   {
    "htmlLink": "https://www.google.com/calendar/event?eid=NXBsaHI1MjF2ZnVrcGMxY2czNTEyaDZwdnMgMWNxOTZhMDdrZmJodWRwYjFkczdpNzI1cWNAZw",
    "summary": "1. Seifersdorfer Schloss- und Parksommer zum 250. Geburtstag von Carl von Brüh",
-   "description": "Schloss geöffnet mit Führungen durch das Gebäude, 14.00 bis 17.00 Uhr, mit Kaffee und Kuchen im Schlosspark. Die Seifersdorfer Kirche ist zeitgleich zu besichtigen.",
+   "description": " 15.00 Uhr Barock- und Tanztheater Dresden am Teehaus (Regenvariante Saal)\n\nSchloss geöffnet mit Führungen durch das Gebäude, 14.00 bis 17.00 Uhr, mit Kaffee und Kuchen im Schlosspark. Die Seifersdorfer Kirche ist zeitgleich zu besichtigen.",
    "start": {
     "dateTime": "2022-07-31T14:00:00+02:00",
     "timeZone": "Europe/Berlin"
