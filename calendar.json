@@ -1,17 +1,6 @@
 {
  "items": [
   {
-   "htmlLink": "https://www.google.com/calendar/event?eid=Nzl2MXJxNDdiYzgxZ3AxNWI1Nm5xZTdvMDkgMWNxOTZhMDdrZmJodWRwYjFkczdpNzI1cWNAZw",
-   "summary": "1. Seifersdorfer Schloss- und Parksommer zum 250. Geburtstag von Carl von Brühl",
-   "description": "Kino im Park - „Gundermann“ von Andreas Dresen",
-   "start": {
-    "date": "2022-07-22"
-   },
-   "end": {
-    "date": "2022-07-23"
-   }
-  },
-  {
    "htmlLink": "https://www.google.com/calendar/event?eid=NXBsaHI1MjF2ZnVrcGMxY2czNTEyaDZwdnMgMWNxOTZhMDdrZmJodWRwYjFkczdpNzI1cWNAZw",
    "summary": "1. Seifersdorfer Schloss- und Parksommer zum 250. Geburtstag von Carl von Brüh",
    "description": " 15.00 Uhr Barock- und Tanztheater Dresden am Teehaus (Regenvariante Saal)\n\nSchloss geöffnet mit Führungen durch das Gebäude, 14.00 bis 17.00 Uhr, mit Kaffee und Kuchen im Schlosspark. Die Seifersdorfer Kirche ist zeitgleich zu besichtigen.",
@@ -34,6 +23,19 @@
    },
    "end": {
     "dateTime": "2022-08-03T21:30:00+02:00",
+    "timeZone": "Europe/Berlin"
+   }
+  },
+  {
+   "htmlLink": "https://www.google.com/calendar/event?eid=Mmt2NjZrc2xkMmVyNDNnZm1hMjE2MzlhamsgMWNxOTZhMDdrZmJodWRwYjFkczdpNzI1cWNAZw",
+   "summary": "1. Seifersdorfer Schloss- und Parksommer zum 250. Geburtstag von Carl von Brühl",
+   "description": "\u003cp\u003eOffenes Schloss mit Barockkonzert\u003cu\u003e\u003c/u\u003e\u003cu\u003e\u003c/u\u003e\u003c/p\u003e\u003cp\u003eDas Barockensemble Serenata Saxonia präsentiert 17.00 Uhr Goldberg-Variationen \"Goldberg bei Brühl\" - Werke aus der Zeit von Heinrich von Brühl, Hans Moritz und Carl von Brühl.&nbsp;\u003c/p\u003e",
+   "start": {
+    "dateTime": "2022-08-14T14:00:00+02:00",
+    "timeZone": "Europe/Berlin"
+   },
+   "end": {
+    "dateTime": "2022-08-14T17:00:00+02:00",
     "timeZone": "Europe/Berlin"
    }
   }
