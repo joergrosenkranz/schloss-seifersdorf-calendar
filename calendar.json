@@ -1,19 +1,6 @@
 {
  "items": [
   {
-   "htmlLink": "https://www.google.com/calendar/event?eid=NXBsaHI1MjF2ZnVrcGMxY2czNTEyaDZwdnMgMWNxOTZhMDdrZmJodWRwYjFkczdpNzI1cWNAZw",
-   "summary": "1. Seifersdorfer Schloss- und Parksommer zum 250. Geburtstag von Carl von Brüh",
-   "description": " 15.00 Uhr Barock- und Tanztheater Dresden am Teehaus (Regenvariante Saal)\n\nSchloss geöffnet mit Führungen durch das Gebäude, 14.00 bis 17.00 Uhr, mit Kaffee und Kuchen im Schlosspark. Die Seifersdorfer Kirche ist zeitgleich zu besichtigen.",
-   "start": {
-    "dateTime": "2022-07-31T14:00:00+02:00",
-    "timeZone": "Europe/Berlin"
-   },
-   "end": {
-    "dateTime": "2022-07-31T17:00:00+02:00",
-    "timeZone": "Europe/Berlin"
-   }
-  },
-  {
    "htmlLink": "https://www.google.com/calendar/event?eid=Z2tiOWtmczFwZWcxYjQ3dWFxamJpM2gzZmNfMjAyMjA4MDNUMTcwMDAwWiAxY3E5NmEwN2tmYmh1ZHBiMWRzN2k3MjVxY0Bn",
    "summary": "Vorstandssitzung",
    "description": "Vorstandssitzung des Fördervereins ",
@@ -36,6 +23,19 @@
    },
    "end": {
     "dateTime": "2022-08-14T17:00:00+02:00",
+    "timeZone": "Europe/Berlin"
+   }
+  },
+  {
+   "htmlLink": "https://www.google.com/calendar/event?eid=MDI2NTdpb2k0MDFyc3EwMjMzNTU1ZmJyYnIgMWNxOTZhMDdrZmJodWRwYjFkczdpNzI1cWNAZw",
+   "summary": "1. Seifersdorfer Schloss- und Parksommer zum 250. Geburtstag von Carl von Brühl",
+   "description": "\u003cp\u003eMarie Hänsel aus Radeberg &nbsp;und Pianistin Shixin Sun - Liederabend mit Goethe-Vertonungen von Schubert u.A.. Beide sind Zeitgenossen von Carl von Brühl.\u003cu\u003e\u003c/u\u003e\u003cu\u003e\u003c/u\u003e\u003c/p\u003e\u003cp\u003eSchloss geöffnet mit Führungen durch das Gebäude, 14.00 bis 17.00 Uhr, mit Kaffee und Kuchen im Saal oder draußen. Die Seifersdorfer Kirche ist zeitgleich zu besichtigen.\u003c/p\u003e",
+   "start": {
+    "dateTime": "2022-08-28T14:00:00+02:00",
+    "timeZone": "Europe/Berlin"
+   },
+   "end": {
+    "dateTime": "2022-08-28T17:00:00+02:00",
     "timeZone": "Europe/Berlin"
    }
   }
