@@ -1,19 +1,6 @@
 {
  "items": [
   {
-   "htmlLink": "https://www.google.com/calendar/event?eid=Mmt2NjZrc2xkMmVyNDNnZm1hMjE2MzlhamsgMWNxOTZhMDdrZmJodWRwYjFkczdpNzI1cWNAZw",
-   "summary": "1. Seifersdorfer Schloss- und Parksommer zum 250. Geburtstag von Carl von Brühl",
-   "description": "\u003cp\u003eOffenes Schloss mit Barockkonzert\u003cu\u003e\u003c/u\u003e\u003cu\u003e\u003c/u\u003e\u003c/p\u003e\u003cp\u003eDas Barockensemble Serenata Saxonia präsentiert 17.00 Uhr Goldberg-Variationen \"Goldberg bei Brühl\" - Werke aus der Zeit von Heinrich von Brühl, Hans Moritz und Carl von Brühl.&nbsp;\u003c/p\u003e",
-   "start": {
-    "dateTime": "2022-08-14T14:00:00+02:00",
-    "timeZone": "Europe/Berlin"
-   },
-   "end": {
-    "dateTime": "2022-08-14T17:00:00+02:00",
-    "timeZone": "Europe/Berlin"
-   }
-  },
-  {
    "htmlLink": "https://www.google.com/calendar/event?eid=MDI2NTdpb2k0MDFyc3EwMjMzNTU1ZmJyYnIgMWNxOTZhMDdrZmJodWRwYjFkczdpNzI1cWNAZw",
    "summary": "1. Seifersdorfer Schloss- und Parksommer zum 250. Geburtstag von Carl von Brühl",
    "description": "\u003cp\u003eMarie Hänsel aus Radeberg &nbsp;und Pianistin Shixin Sun - Liederabend mit Goethe-Vertonungen von Schubert u.A.. Beide sind Zeitgenossen von Carl von Brühl.\u003cu\u003e\u003c/u\u003e\u003cu\u003e\u003c/u\u003e\u003c/p\u003e\u003cp\u003eSchloss geöffnet mit Führungen durch das Gebäude, 14.00 bis 17.00 Uhr, mit Kaffee und Kuchen im Saal oder draußen. Die Seifersdorfer Kirche ist zeitgleich zu besichtigen.\u003c/p\u003e",
@@ -36,6 +23,19 @@
    },
    "end": {
     "dateTime": "2022-09-04T20:00:00+02:00",
+    "timeZone": "Europe/Berlin"
+   }
+  },
+  {
+   "htmlLink": "https://www.google.com/calendar/event?eid=Z2tiOWtmczFwZWcxYjQ3dWFxamJpM2gzZmNfMjAyMjA5MDdUMTcwMDAwWiAxY3E5NmEwN2tmYmh1ZHBiMWRzN2k3MjVxY0Bn",
+   "summary": "Vorstandssitzung",
+   "description": "Vorstandssitzung des Fördervereins ",
+   "start": {
+    "dateTime": "2022-09-07T19:00:00+02:00",
+    "timeZone": "Europe/Berlin"
+   },
+   "end": {
+    "dateTime": "2022-09-07T21:30:00+02:00",
     "timeZone": "Europe/Berlin"
    }
   }
