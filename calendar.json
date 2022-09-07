@@ -1,19 +1,6 @@
 {
  "items": [
   {
-   "htmlLink": "https://www.google.com/calendar/event?eid=Z2tiOWtmczFwZWcxYjQ3dWFxamJpM2gzZmNfMjAyMjA5MDdUMTcwMDAwWiAxY3E5NmEwN2tmYmh1ZHBiMWRzN2k3MjVxY0Bn",
-   "summary": "Vorstandssitzung",
-   "description": "Vorstandssitzung des Fördervereins ",
-   "start": {
-    "dateTime": "2022-09-07T19:00:00+02:00",
-    "timeZone": "Europe/Berlin"
-   },
-   "end": {
-    "dateTime": "2022-09-07T21:30:00+02:00",
-    "timeZone": "Europe/Berlin"
-   }
-  },
-  {
    "htmlLink": "https://www.google.com/calendar/event?eid=Nm5uZ2w4dWh0aWpsaHFjaTFxajE2YWNqcnEgMWNxOTZhMDdrZmJodWRwYjFkczdpNzI1cWNAZw",
    "summary": "Tag des offenen Denkmals",
    "description": "\u003chtml-blob\u003e\u003cp\u003eTag des Offenen Denkmals zum 250. Geburtstag von Carl von Brühl\u003cu\u003e\u003c/u\u003e\u003cu\u003e\u003c/u\u003e\u003c/p\u003e\u003cp\u003eSchlossführungen ab 10.00 Uhr im Vorfeld der Bauarbeiten am Schloss.\u003cu\u003e\u003c/u\u003e\u003cu\u003e\u003c/u\u003e\u003c/p\u003e\u003cp\u003eDie festlich geschmückte Kirche ist den ganzen Tag geöffnet. Es findet das Erntedankfest statt.\u003c/p\u003e\u003cp\u003e17.00 Uhr Konzert im Saal des Schlosses und Abschluss des \"1. Seifersdorfer Schloss- und Parksommer\"\u003cu\u003e\u003c/u\u003e\u003cu\u003e\u003c/u\u003e\u003c/p\u003e\u003cp\u003e„Undines Zauberwelt“\u003cu\u003e\u003c/u\u003e\u003cu\u003e\u003c/u\u003e\u003c/p\u003e\u003cp\u003eLieder von E. T. A. Hoffmann, Schumann und Richard Strauss\u003cu\u003e\u003c/u\u003e\u003cu\u003e\u003c/u\u003e\u003c/p\u003e\u003cp\u003eCaroline Ullrich (Gesang), Matthias Henneberg (Gesang), Marlies Jacob (Klavier)\u003c/p\u003e\u003c/html-blob\u003e",
@@ -36,6 +23,19 @@
    },
    "end": {
     "dateTime": "2022-10-02T17:00:00+02:00",
+    "timeZone": "Europe/Berlin"
+   }
+  },
+  {
+   "htmlLink": "https://www.google.com/calendar/event?eid=Z2tiOWtmczFwZWcxYjQ3dWFxamJpM2gzZmNfMjAyMjEwMDVUMTcwMDAwWiAxY3E5NmEwN2tmYmh1ZHBiMWRzN2k3MjVxY0Bn",
+   "summary": "Vorstandssitzung",
+   "description": "Vorstandssitzung des Fördervereins ",
+   "start": {
+    "dateTime": "2022-10-05T19:00:00+02:00",
+    "timeZone": "Europe/Berlin"
+   },
+   "end": {
+    "dateTime": "2022-10-05T21:30:00+02:00",
     "timeZone": "Europe/Berlin"
    }
   }
