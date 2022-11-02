@@ -1,18 +1,6 @@
 {
  "items": [
   {
-   "htmlLink": "https://www.google.com/calendar/event?eid=Mm5saGJ0OW1ydWxtNzJzcjlxdnVzZzA3a2YgMWNxOTZhMDdrZmJodWRwYjFkczdpNzI1cWNAZw",
-   "summary": "Mitgliederversammlung",
-   "start": {
-    "dateTime": "2022-11-02T19:00:00+01:00",
-    "timeZone": "Europe/Berlin"
-   },
-   "end": {
-    "dateTime": "2022-11-02T20:00:00+01:00",
-    "timeZone": "Europe/Berlin"
-   }
-  },
-  {
    "htmlLink": "https://www.google.com/calendar/event?eid=NDh2dDB0bDVkanFrN2hxaG51MjVuZnRkdnUgMWNxOTZhMDdrZmJodWRwYjFkczdpNzI1cWNAZw",
    "summary": "Laubeinsatz im Schlosspark",
    "description": "Wir freuen uns auf Eure Mithilfe.",
@@ -35,6 +23,19 @@
    },
    "end": {
     "dateTime": "2022-11-06T17:00:00+01:00",
+    "timeZone": "Europe/Berlin"
+   }
+  },
+  {
+   "htmlLink": "https://www.google.com/calendar/event?eid=NTBrcTk3MHBrZXNyY2NrdnU0MmowYzUyYTQgMWNxOTZhMDdrZmJodWRwYjFkczdpNzI1cWNAZw",
+   "summary": "Konzertlesung",
+   "description": "Michael Hillmann liest aus seinem Buch \"Wozu ich geboren wurde\"",
+   "start": {
+    "dateTime": "2022-11-06T17:00:00+01:00",
+    "timeZone": "Europe/Berlin"
+   },
+   "end": {
+    "dateTime": "2022-11-06T18:00:00+01:00",
     "timeZone": "Europe/Berlin"
    }
   }
