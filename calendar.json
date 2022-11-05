@@ -1,19 +1,6 @@
 {
  "items": [
   {
-   "htmlLink": "https://www.google.com/calendar/event?eid=NDh2dDB0bDVkanFrN2hxaG51MjVuZnRkdnUgMWNxOTZhMDdrZmJodWRwYjFkczdpNzI1cWNAZw",
-   "summary": "Laubeinsatz im Schlosspark",
-   "description": "Wir freuen uns auf Eure Mithilfe.",
-   "start": {
-    "dateTime": "2022-11-05T08:00:00+01:00",
-    "timeZone": "Europe/Berlin"
-   },
-   "end": {
-    "dateTime": "2022-11-05T09:00:00+01:00",
-    "timeZone": "Europe/Berlin"
-   }
-  },
-  {
    "htmlLink": "https://www.google.com/calendar/event?eid=NW40anJzZG4zcGt1MzhtMzQ5aXN0bG9ucXNfMjAyMjExMDZUMTMwMDAwWiAxY3E5NmEwN2tmYmh1ZHBiMWRzN2k3MjVxY0Bn",
    "summary": "Offenes Schloss",
    "description": "Schloss geöffnet mit Führungen durch das Gebäude, 14.00 bis 17.00 Uhr, mit Kaffee und Kuchen im Saal\nDie Seifersdorfer Kirche ist zeitgleich zu besichtigen.",
@@ -37,6 +24,16 @@
    "end": {
     "dateTime": "2022-11-06T18:00:00+01:00",
     "timeZone": "Europe/Berlin"
+   }
+  },
+  {
+   "htmlLink": "https://www.google.com/calendar/event?eid=NHViNWxia2IwZjRpcWw1djgyb2l2Mzd1c2sgMWNxOTZhMDdrZmJodWRwYjFkczdpNzI1cWNAZw",
+   "summary": "Reisevortrag \"Schottland\" mit Ralf Meinert",
+   "start": {
+    "date": "2022-11-15"
+   },
+   "end": {
+    "date": "2022-11-16"
    }
   }
  ]
