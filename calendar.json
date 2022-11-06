@@ -1,19 +1,6 @@
 {
  "items": [
   {
-   "htmlLink": "https://www.google.com/calendar/event?eid=NTBrcTk3MHBrZXNyY2NrdnU0MmowYzUyYTQgMWNxOTZhMDdrZmJodWRwYjFkczdpNzI1cWNAZw",
-   "summary": "Konzertlesung",
-   "description": "Michael Hillmann liest aus seinem Buch \"Wozu ich geboren wurde\"",
-   "start": {
-    "dateTime": "2022-11-06T17:00:00+01:00",
-    "timeZone": "Europe/Berlin"
-   },
-   "end": {
-    "dateTime": "2022-11-06T18:00:00+01:00",
-    "timeZone": "Europe/Berlin"
-   }
-  },
-  {
    "htmlLink": "https://www.google.com/calendar/event?eid=NHViNWxia2IwZjRpcWw1djgyb2l2Mzd1c2sgMWNxOTZhMDdrZmJodWRwYjFkczdpNzI1cWNAZw",
    "summary": "Reisevortrag \"Schottland\" mit Ralf Meinert",
    "start": {
@@ -33,6 +20,19 @@
    },
    "end": {
     "dateTime": "2022-12-04T17:00:00+01:00",
+    "timeZone": "Europe/Berlin"
+   }
+  },
+  {
+   "htmlLink": "https://www.google.com/calendar/event?eid=Z2tiOWtmczFwZWcxYjQ3dWFxamJpM2gzZmNfMjAyMjEyMDdUMTgwMDAwWiAxY3E5NmEwN2tmYmh1ZHBiMWRzN2k3MjVxY0Bn",
+   "summary": "Vorstandssitzung",
+   "description": "Vorstandssitzung des Fördervereins ",
+   "start": {
+    "dateTime": "2022-12-07T19:00:00+01:00",
+    "timeZone": "Europe/Berlin"
+   },
+   "end": {
+    "dateTime": "2022-12-07T21:30:00+01:00",
     "timeZone": "Europe/Berlin"
    }
   }
