@@ -1,19 +1,6 @@
 {
  "items": [
   {
-   "htmlLink": "https://www.google.com/calendar/event?eid=NW40anJzZG4zcGt1MzhtMzQ5aXN0bG9ucXNfMjAyMjExMDZUMTMwMDAwWiAxY3E5NmEwN2tmYmh1ZHBiMWRzN2k3MjVxY0Bn",
-   "summary": "Offenes Schloss",
-   "description": "Schloss geöffnet mit Führungen durch das Gebäude, 14.00 bis 17.00 Uhr, mit Kaffee und Kuchen im Saal\nDie Seifersdorfer Kirche ist zeitgleich zu besichtigen.",
-   "start": {
-    "dateTime": "2022-11-06T14:00:00+01:00",
-    "timeZone": "Europe/Berlin"
-   },
-   "end": {
-    "dateTime": "2022-11-06T17:00:00+01:00",
-    "timeZone": "Europe/Berlin"
-   }
-  },
-  {
    "htmlLink": "https://www.google.com/calendar/event?eid=NTBrcTk3MHBrZXNyY2NrdnU0MmowYzUyYTQgMWNxOTZhMDdrZmJodWRwYjFkczdpNzI1cWNAZw",
    "summary": "Konzertlesung",
    "description": "Michael Hillmann liest aus seinem Buch \"Wozu ich geboren wurde\"",
@@ -34,6 +21,19 @@
    },
    "end": {
     "date": "2022-11-16"
+   }
+  },
+  {
+   "htmlLink": "https://www.google.com/calendar/event?eid=NW40anJzZG4zcGt1MzhtMzQ5aXN0bG9ucXNfMjAyMjEyMDRUMTMwMDAwWiAxY3E5NmEwN2tmYmh1ZHBiMWRzN2k3MjVxY0Bn",
+   "summary": "Offenes Schloss",
+   "description": "Schloss geöffnet mit Führungen durch das Gebäude, 14.00 bis 17.00 Uhr, mit Kaffee und Kuchen im Saal\nDie Seifersdorfer Kirche ist zeitgleich zu besichtigen.",
+   "start": {
+    "dateTime": "2022-12-04T14:00:00+01:00",
+    "timeZone": "Europe/Berlin"
+   },
+   "end": {
+    "dateTime": "2022-12-04T17:00:00+01:00",
+    "timeZone": "Europe/Berlin"
    }
   }
  ]
