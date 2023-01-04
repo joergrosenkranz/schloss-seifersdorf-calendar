@@ -14,28 +14,28 @@
    }
   },
   {
-   "htmlLink": "https://www.google.com/calendar/event?eid=Z2tiOWtmczFwZWcxYjQ3dWFxamJpM2gzZmNfMjAyMzAyMDFUMTgwMDAwWiAxY3E5NmEwN2tmYmh1ZHBiMWRzN2k3MjVxY0Bn",
-   "summary": "Vorstandssitzung",
-   "description": "Vorstandssitzung des Fördervereins ",
+   "htmlLink": "https://www.google.com/calendar/event?eid=NW40anJzZG4zcGt1MzhtMzQ5aXN0bG9ucXNfMjAyMzAxMDFUMTMwMDAwWiAxY3E5NmEwN2tmYmh1ZHBiMWRzN2k3MjVxY0Bn",
+   "summary": "Offenes Schloss",
+   "description": "Schloss geöffnet mit Führungen durch das Gebäude, 14.00 bis 17.00 Uhr, mit Kaffee und Kuchen im Saal\nDie Seifersdorfer Kirche ist zeitgleich zu besichtigen.",
    "start": {
-    "dateTime": "2023-02-01T19:00:00+01:00",
+    "dateTime": "2023-01-08T14:00:00+01:00",
     "timeZone": "Europe/Berlin"
    },
    "end": {
-    "dateTime": "2023-02-01T21:30:00+01:00",
+    "dateTime": "2023-01-08T17:00:00+01:00",
     "timeZone": "Europe/Berlin"
    }
   },
   {
-   "htmlLink": "https://www.google.com/calendar/event?eid=NW40anJzZG4zcGt1MzhtMzQ5aXN0bG9ucXNfMjAyMzAyMDVUMTMwMDAwWiAxY3E5NmEwN2tmYmh1ZHBiMWRzN2k3MjVxY0Bn",
-   "summary": "Offenes Schloss",
-   "description": "Schloss geöffnet mit Führungen durch das Gebäude, 14.00 bis 17.00 Uhr, mit Kaffee und Kuchen im Saal\nDie Seifersdorfer Kirche ist zeitgleich zu besichtigen.",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MG1vbnNzaHMzYnI3ZGNsaGs2djZhNjIwZmkgMWNxOTZhMDdrZmJodWRwYjFkczdpNzI1cWNAZw",
+   "summary": "Jahresauftakt zum Jahr der Teilhabe",
+   "description": "zum 170. Geburtstag von Karl von Brühl-Renard. Auftritt der Theatergruppe des Epilepsiezentrums Kleinwachau.",
    "start": {
-    "dateTime": "2023-02-05T14:00:00+01:00",
+    "dateTime": "2023-01-22T15:00:00+01:00",
     "timeZone": "Europe/Berlin"
    },
    "end": {
-    "dateTime": "2023-02-05T17:00:00+01:00",
+    "dateTime": "2023-01-22T17:00:00+01:00",
     "timeZone": "Europe/Berlin"
    }
   }
