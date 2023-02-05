@@ -1,16 +1,26 @@
 {
  "items": [
   {
-   "htmlLink": "https://www.google.com/calendar/event?eid=Z2tiOWtmczFwZWcxYjQ3dWFxamJpM2gzZmNfMjAyMzAzMDFUMTgwMDAwWiAxY3E5NmEwN2tmYmh1ZHBiMWRzN2k3MjVxY0Bn",
+   "htmlLink": "https://www.google.com/calendar/event?eid=Z2tiOWtmczFwZWcxYjQ3dWFxamJpM2gzZmNfMjAyMzAyMDFUMTgwMDAwWiAxY3E5NmEwN2tmYmh1ZHBiMWRzN2k3MjVxY0Bn",
    "summary": "Vorstandssitzung",
    "description": "Vorstandssitzung des Fördervereins ",
    "start": {
-    "dateTime": "2023-03-01T19:00:00+01:00",
+    "dateTime": "2023-02-07T19:00:00+01:00",
     "timeZone": "Europe/Berlin"
    },
    "end": {
-    "dateTime": "2023-03-01T21:30:00+01:00",
+    "dateTime": "2023-02-07T21:30:00+01:00",
     "timeZone": "Europe/Berlin"
+   }
+  },
+  {
+   "htmlLink": "https://www.google.com/calendar/event?eid=NW5vazRkamdxcDA0OXQzdnVmdjc2a2I5dG8gMWNxOTZhMDdrZmJodWRwYjFkczdpNzI1cWNAZw",
+   "summary": "Vortrag \"Lausitzer Seenland\" mit Alexander Harter",
+   "start": {
+    "date": "2023-02-19"
+   },
+   "end": {
+    "date": "2023-02-20"
    }
   },
   {
@@ -23,19 +33,6 @@
    },
    "end": {
     "dateTime": "2023-03-05T17:00:00+01:00",
-    "timeZone": "Europe/Berlin"
-   }
-  },
-  {
-   "htmlLink": "https://www.google.com/calendar/event?eid=NW40anJzZG4zcGt1MzhtMzQ5aXN0bG9ucXNfMjAyMzA0MDJUMTIwMDAwWiAxY3E5NmEwN2tmYmh1ZHBiMWRzN2k3MjVxY0Bn",
-   "summary": "Offenes Schloss",
-   "description": "Schloss geöffnet mit Führungen durch das Gebäude, 14.00 bis 17.00 Uhr, mit Kaffee und Kuchen im Saal\nDie Seifersdorfer Kirche ist zeitgleich zu besichtigen.",
-   "start": {
-    "dateTime": "2023-04-02T14:00:00+02:00",
-    "timeZone": "Europe/Berlin"
-   },
-   "end": {
-    "dateTime": "2023-04-02T17:00:00+02:00",
     "timeZone": "Europe/Berlin"
    }
   }
