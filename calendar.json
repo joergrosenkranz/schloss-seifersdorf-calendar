@@ -1,16 +1,6 @@
 {
  "items": [
   {
-   "htmlLink": "https://www.google.com/calendar/event?eid=M2M3b21oaW82NzUzbjVlY2toZ2dzZnIyNWUgMWNxOTZhMDdrZmJodWRwYjFkczdpNzI1cWNAZw",
-   "summary": "Kinoabend",
-   "start": {
-    "date": "2023-03-24"
-   },
-   "end": {
-    "date": "2023-03-25"
-   }
-  },
-  {
    "htmlLink": "https://www.google.com/calendar/event?eid=MWs5bmtwODdxMjFrM2w2MDJhdm9wNW4xcmUgMWNxOTZhMDdrZmJodWRwYjFkczdpNzI1cWNAZw",
    "summary": "1. kulinarische Schlossführung",
    "start": {
@@ -32,6 +22,19 @@
    },
    "end": {
     "dateTime": "2023-04-02T17:00:00+02:00",
+    "timeZone": "Europe/Berlin"
+   }
+  },
+  {
+   "htmlLink": "https://www.google.com/calendar/event?eid=Z2tiOWtmczFwZWcxYjQ3dWFxamJpM2gzZmNfMjAyMzA0MDVUMTcwMDAwWiAxY3E5NmEwN2tmYmh1ZHBiMWRzN2k3MjVxY0Bn",
+   "summary": "Vorstandssitzung",
+   "description": "Vorstandssitzung des Fördervereins ",
+   "start": {
+    "dateTime": "2023-04-05T19:00:00+02:00",
+    "timeZone": "Europe/Berlin"
+   },
+   "end": {
+    "dateTime": "2023-04-05T21:30:00+02:00",
     "timeZone": "Europe/Berlin"
    }
   }
