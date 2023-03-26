@@ -1,18 +1,6 @@
 {
  "items": [
   {
-   "htmlLink": "https://www.google.com/calendar/event?eid=MWs5bmtwODdxMjFrM2w2MDJhdm9wNW4xcmUgMWNxOTZhMDdrZmJodWRwYjFkczdpNzI1cWNAZw",
-   "summary": "1. kulinarische Schlossführung",
-   "start": {
-    "dateTime": "2023-03-26T14:00:00+02:00",
-    "timeZone": "Europe/Berlin"
-   },
-   "end": {
-    "dateTime": "2023-03-26T15:00:00+02:00",
-    "timeZone": "Europe/Berlin"
-   }
-  },
-  {
    "htmlLink": "https://www.google.com/calendar/event?eid=NW40anJzZG4zcGt1MzhtMzQ5aXN0bG9ucXNfMjAyMzA0MDJUMTIwMDAwWiAxY3E5NmEwN2tmYmh1ZHBiMWRzN2k3MjVxY0Bn",
    "summary": "Offenes Schloss",
    "description": "Schloss geöffnet mit Führungen durch das Gebäude, 14.00 bis 17.00 Uhr, mit Kaffee und Kuchen im Saal\nDie Seifersdorfer Kirche ist zeitgleich zu besichtigen.",
@@ -36,6 +24,16 @@
    "end": {
     "dateTime": "2023-04-05T21:30:00+02:00",
     "timeZone": "Europe/Berlin"
+   }
+  },
+  {
+   "htmlLink": "https://www.google.com/calendar/event?eid=NWd0dWZ0NmYzY2Q1cmQwM2cxNWc4OG8xOTMgMWNxOTZhMDdrZmJodWRwYjFkczdpNzI1cWNAZw",
+   "summary": "Reisevortrag \"La Reunion\"",
+   "start": {
+    "date": "2023-04-20"
+   },
+   "end": {
+    "date": "2023-04-21"
    }
   }
  ]
