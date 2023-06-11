@@ -1,18 +1,6 @@
 {
  "items": [
   {
-   "htmlLink": "https://www.google.com/calendar/event?eid=NnIzZDQ5dGc2MGlsZjZpMnY5YjNqNHY1ODggMWNxOTZhMDdrZmJodWRwYjFkczdpNzI1cWNAZw",
-   "summary": "Picknich in weiss im Schlosspark",
-   "start": {
-    "dateTime": "2023-06-11T14:00:00+02:00",
-    "timeZone": "Europe/Berlin"
-   },
-   "end": {
-    "dateTime": "2023-06-11T15:00:00+02:00",
-    "timeZone": "Europe/Berlin"
-   }
-  },
-  {
    "htmlLink": "https://www.google.com/calendar/event?eid=MXM0NHYyNnIwZ3FoNmZ1cDBmcjBpYWpvYnIgMWNxOTZhMDdrZmJodWRwYjFkczdpNzI1cWNAZw",
    "summary": "Vier Streicher des Sorbischen National-Ensemble musizieren",
    "description": "Heitere Werke der Quartett-Literatur.\n\nMarzena Wysocka (Violine)\nMathias Reichel (Violine)\nAgata Jurys (Bratsche)\nHelfried Knopsmeier (Violincello)",
@@ -35,6 +23,19 @@
    },
    "end": {
     "dateTime": "2023-07-02T17:00:00+02:00",
+    "timeZone": "Europe/Berlin"
+   }
+  },
+  {
+   "htmlLink": "https://www.google.com/calendar/event?eid=Z2tiOWtmczFwZWcxYjQ3dWFxamJpM2gzZmNfMjAyMzA3MDVUMTcwMDAwWiAxY3E5NmEwN2tmYmh1ZHBiMWRzN2k3MjVxY0Bn",
+   "summary": "Vorstandssitzung",
+   "description": "Vorstandssitzung des Fördervereins ",
+   "start": {
+    "dateTime": "2023-07-05T19:00:00+02:00",
+    "timeZone": "Europe/Berlin"
+   },
+   "end": {
+    "dateTime": "2023-07-05T21:30:00+02:00",
     "timeZone": "Europe/Berlin"
    }
   }
