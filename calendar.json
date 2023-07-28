@@ -14,6 +14,18 @@
    }
   },
   {
+   "htmlLink": "https://www.google.com/calendar/event?eid=N24xam51cWE3NDEzNWxqbmFpaGxpcHJjbHEgMWNxOTZhMDdrZmJodWRwYjFkczdpNzI1cWNAZw",
+   "summary": "\"Aufgeweckte Gartenklänge\" mit Claudius Wecke",
+   "start": {
+    "dateTime": "2023-07-30T17:00:00+02:00",
+    "timeZone": "Europe/Berlin"
+   },
+   "end": {
+    "dateTime": "2023-07-30T18:00:00+02:00",
+    "timeZone": "Europe/Berlin"
+   }
+  },
+  {
    "htmlLink": "https://www.google.com/calendar/event?eid=Z2tiOWtmczFwZWcxYjQ3dWFxamJpM2gzZmNfMjAyMzA4MDJUMTcwMDAwWiAxY3E5NmEwN2tmYmh1ZHBiMWRzN2k3MjVxY0Bn",
    "summary": "Vorstandssitzung",
    "description": "Vorstandssitzung des Fördervereins ",
@@ -23,19 +35,6 @@
    },
    "end": {
     "dateTime": "2023-08-02T21:30:00+02:00",
-    "timeZone": "Europe/Berlin"
-   }
-  },
-  {
-   "htmlLink": "https://www.google.com/calendar/event?eid=NTVsYnAxc2d1MDR0bGZkOTQ3NGNkbmw0anAgMWNxOTZhMDdrZmJodWRwYjFkczdpNzI1cWNAZw",
-   "summary": "Offenes Schloss",
-   "description": "Schloss geöffnet mit Führungen durch das Gebäude, 14.00 bis 17.00 Uhr, mit Kaffee und Kuchen im Saal.",
-   "start": {
-    "dateTime": "2023-08-13T14:00:00+02:00",
-    "timeZone": "Europe/Berlin"
-   },
-   "end": {
-    "dateTime": "2023-08-13T17:00:00+02:00",
     "timeZone": "Europe/Berlin"
    }
   }
