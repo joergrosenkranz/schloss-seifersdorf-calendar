@@ -1,18 +1,6 @@
 {
  "items": [
   {
-   "htmlLink": "https://www.google.com/calendar/event?eid=N24xam51cWE3NDEzNWxqbmFpaGxpcHJjbHEgMWNxOTZhMDdrZmJodWRwYjFkczdpNzI1cWNAZw",
-   "summary": "\"Aufgeweckte Gartenklänge\" mit Claudius Wecke",
-   "start": {
-    "dateTime": "2023-07-30T17:00:00+02:00",
-    "timeZone": "Europe/Berlin"
-   },
-   "end": {
-    "dateTime": "2023-07-30T18:00:00+02:00",
-    "timeZone": "Europe/Berlin"
-   }
-  },
-  {
    "htmlLink": "https://www.google.com/calendar/event?eid=Z2tiOWtmczFwZWcxYjQ3dWFxamJpM2gzZmNfMjAyMzA4MDJUMTcwMDAwWiAxY3E5NmEwN2tmYmh1ZHBiMWRzN2k3MjVxY0Bn",
    "summary": "Vorstandssitzung",
    "description": "Vorstandssitzung des Fördervereins ",
@@ -35,6 +23,19 @@
    },
    "end": {
     "dateTime": "2023-08-13T17:00:00+02:00",
+    "timeZone": "Europe/Berlin"
+   }
+  },
+  {
+   "htmlLink": "https://www.google.com/calendar/event?eid=MWhpaDVxcmduZ2JsZnM4azY3aXJiMTZiMTMgMWNxOTZhMDdrZmJodWRwYjFkczdpNzI1cWNAZw",
+   "summary": "Kulinarische Schlossführung",
+   "description": "Anmeldungen bitte bis spätestens drei Tage vorab bei Leni Diener unter 0151-224- 73627 oder an besucher@schloss-seifersdorf.de\nPreis inklusive Verkostung, Führung und Aperitif, Dauer insgesamt circa 1,5h, 20€ pro Person. Individuelle kulinarische Schlossführungen zum Wunschtermin sind nach Absprache möglich ab 8 Teilnehmern.",
+   "start": {
+    "dateTime": "2023-08-27T14:00:00+02:00",
+    "timeZone": "Europe/Berlin"
+   },
+   "end": {
+    "dateTime": "2023-08-27T15:00:00+02:00",
     "timeZone": "Europe/Berlin"
    }
   }
