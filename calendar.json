@@ -1,19 +1,6 @@
 {
  "items": [
   {
-   "htmlLink": "https://www.google.com/calendar/event?eid=NW40anJzZG4zcGt1MzhtMzQ5aXN0bG9ucXNfMjAyMzA4MDZUMTIwMDAwWiAxY3E5NmEwN2tmYmh1ZHBiMWRzN2k3MjVxY0Bn",
-   "summary": "Offenes Schloss",
-   "description": "Schloss geöffnet mit Führungen durch das Gebäude, 14.00 bis 17.00 Uhr, mit Kaffee und Kuchen im Saal.",
-   "start": {
-    "dateTime": "2023-07-30T14:00:00+02:00",
-    "timeZone": "Europe/Berlin"
-   },
-   "end": {
-    "dateTime": "2023-07-30T17:00:00+02:00",
-    "timeZone": "Europe/Berlin"
-   }
-  },
-  {
    "htmlLink": "https://www.google.com/calendar/event?eid=N24xam51cWE3NDEzNWxqbmFpaGxpcHJjbHEgMWNxOTZhMDdrZmJodWRwYjFkczdpNzI1cWNAZw",
    "summary": "\"Aufgeweckte Gartenklänge\" mit Claudius Wecke",
    "start": {
@@ -35,6 +22,19 @@
    },
    "end": {
     "dateTime": "2023-08-02T21:30:00+02:00",
+    "timeZone": "Europe/Berlin"
+   }
+  },
+  {
+   "htmlLink": "https://www.google.com/calendar/event?eid=NTVsYnAxc2d1MDR0bGZkOTQ3NGNkbmw0anAgMWNxOTZhMDdrZmJodWRwYjFkczdpNzI1cWNAZw",
+   "summary": "Offenes Schloss zum \"Seifersdorfer Tag der Teilhabe\"",
+   "description": "Bocciaspielen mit Teilnehmern der Special Olympics und Verkaufsstand der Kleinwachauer Werkstätten.\n\nSchloss geöffnet mit Führungen durch das Gebäude, mit Kaffee und Kuchen im Saal.",
+   "start": {
+    "dateTime": "2023-08-13T14:00:00+02:00",
+    "timeZone": "Europe/Berlin"
+   },
+   "end": {
+    "dateTime": "2023-08-13T17:00:00+02:00",
     "timeZone": "Europe/Berlin"
    }
   }
