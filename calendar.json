@@ -1,18 +1,6 @@
 {
  "items": [
   {
-   "htmlLink": "https://www.google.com/calendar/event?eid=NjVqbDIzcmdkcnE4YWswbThtN3JwcXVpMzAgMWNxOTZhMDdrZmJodWRwYjFkczdpNzI1cWNAZw",
-   "summary": "Kränze binden für das Erntedankfest im Pfarrhaus Seifersdorf",
-   "start": {
-    "dateTime": "2023-09-08T13:00:00+02:00",
-    "timeZone": "Europe/Berlin"
-   },
-   "end": {
-    "dateTime": "2023-09-08T18:00:00+02:00",
-    "timeZone": "Europe/Berlin"
-   }
-  },
-  {
    "htmlLink": "https://www.google.com/calendar/event?eid=NWVicXE2anNwcm40MjU2Z2ZkOTR1ZzdrNHIgMWNxOTZhMDdrZmJodWRwYjFkczdpNzI1cWNAZw",
    "summary": "Denkmäler im Rödertal zum „Tag des offenen Denkmals – Talent Monument“ - mit dem Tanztheater „Sweet Melancholy“ der Landesbühnen Sachsen",
    "start": {
@@ -34,6 +22,18 @@
    },
    "end": {
     "dateTime": "2023-10-01T17:00:00+02:00",
+    "timeZone": "Europe/Berlin"
+   }
+  },
+  {
+   "htmlLink": "https://www.google.com/calendar/event?eid=NzQxampiMnBqYnJuY3YydDAyOWhvcmhlcG4gMWNxOTZhMDdrZmJodWRwYjFkczdpNzI1cWNAZw",
+   "summary": "Kinderkino",
+   "start": {
+    "dateTime": "2023-10-03T15:00:00+02:00",
+    "timeZone": "Europe/Berlin"
+   },
+   "end": {
+    "dateTime": "2023-10-03T16:00:00+02:00",
     "timeZone": "Europe/Berlin"
    }
   }
