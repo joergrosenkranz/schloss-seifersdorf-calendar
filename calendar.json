@@ -1,18 +1,6 @@
 {
  "items": [
   {
-   "htmlLink": "https://www.google.com/calendar/event?eid=N3B1cjZjbm1naTdjc2NhbXNqYmdydmFkcWMgMWNxOTZhMDdrZmJodWRwYjFkczdpNzI1cWNAZw",
-   "summary": "Mitgliederversammlung und Vorstandswahl",
-   "start": {
-    "dateTime": "2023-11-08T19:00:00+01:00",
-    "timeZone": "Europe/Berlin"
-   },
-   "end": {
-    "dateTime": "2023-11-08T20:00:00+01:00",
-    "timeZone": "Europe/Berlin"
-   }
-  },
-  {
    "htmlLink": "https://www.google.com/calendar/event?eid=NDNrdHY3Mmdmc2FuZjg3Zm9mODA1ZzR2Z3QgMWNxOTZhMDdrZmJodWRwYjFkczdpNzI1cWNAZw",
    "summary": "Reisevortrag „Guatemala, Honduras und Mexiko - Eine Reise zu den Mayas und Atzteken“ vor dem Bußtag mit Michael Lory",
    "start": {
@@ -32,6 +20,19 @@
    },
    "end": {
     "dateTime": "2023-12-03T17:00:00+01:00",
+    "timeZone": "Europe/Berlin"
+   }
+  },
+  {
+   "htmlLink": "https://www.google.com/calendar/event?eid=Z2tiOWtmczFwZWcxYjQ3dWFxamJpM2gzZmNfMjAyMzEyMDZUMTgwMDAwWiAxY3E5NmEwN2tmYmh1ZHBiMWRzN2k3MjVxY0Bn",
+   "summary": "Vorstandssitzung",
+   "description": "Vorstandssitzung des Fördervereins ",
+   "start": {
+    "dateTime": "2023-12-06T19:00:00+01:00",
+    "timeZone": "Europe/Berlin"
+   },
+   "end": {
+    "dateTime": "2023-12-06T21:30:00+01:00",
     "timeZone": "Europe/Berlin"
    }
   }
