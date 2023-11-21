@@ -1,16 +1,6 @@
 {
  "items": [
   {
-   "htmlLink": "https://www.google.com/calendar/event?eid=NDNrdHY3Mmdmc2FuZjg3Zm9mODA1ZzR2Z3QgMWNxOTZhMDdrZmJodWRwYjFkczdpNzI1cWNAZw",
-   "summary": "Reisevortrag „Guatemala, Honduras und Mexiko - Eine Reise zu den Mayas und Atzteken“ vor dem Bußtag mit Michael Lory",
-   "start": {
-    "date": "2023-11-21"
-   },
-   "end": {
-    "date": "2023-11-22"
-   }
-  },
-  {
    "htmlLink": "https://www.google.com/calendar/event?eid=NW40anJzZG4zcGt1MzhtMzQ5aXN0bG9ucXNfMjAyMzEyMDNUMTMwMDAwWiAxY3E5NmEwN2tmYmh1ZHBiMWRzN2k3MjVxY0Bn",
    "summary": "Offenes Schloss",
    "description": "Schloss geöffnet mit Führungen durch das Gebäude, 14.00 bis 17.00 Uhr, mit Kaffee und Kuchen im Saal\nDie Seifersdorfer Kirche ist zeitgleich zu besichtigen.",
@@ -34,6 +24,16 @@
    "end": {
     "dateTime": "2023-12-06T21:30:00+01:00",
     "timeZone": "Europe/Berlin"
+   }
+  },
+  {
+   "htmlLink": "https://www.google.com/calendar/event?eid=NjFyMGEyZWNxZjFtOGpoNzE2NWZ2cXFvaWggMWNxOTZhMDdrZmJodWRwYjFkczdpNzI1cWNAZw",
+   "summary": " Advent im Schloss und Park",
+   "start": {
+    "date": "2023-12-17"
+   },
+   "end": {
+    "date": "2023-12-18"
    }
   }
  ]
