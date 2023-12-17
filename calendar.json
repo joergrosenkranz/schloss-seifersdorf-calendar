@@ -1,16 +1,6 @@
 {
  "items": [
   {
-   "htmlLink": "https://www.google.com/calendar/event?eid=NjFyMGEyZWNxZjFtOGpoNzE2NWZ2cXFvaWggMWNxOTZhMDdrZmJodWRwYjFkczdpNzI1cWNAZw",
-   "summary": " Advent im Schloss und Park",
-   "start": {
-    "date": "2023-12-17"
-   },
-   "end": {
-    "date": "2023-12-18"
-   }
-  },
-  {
    "htmlLink": "https://www.google.com/calendar/event?eid=Z2tiOWtmczFwZWcxYjQ3dWFxamJpM2gzZmNfMjAyNDAxMDNUMTgwMDAwWiAxY3E5NmEwN2tmYmh1ZHBiMWRzN2k3MjVxY0Bn",
    "summary": "Vorstandssitzung",
    "description": "Vorstandssitzung des Fördervereins ",
@@ -34,6 +24,16 @@
    "end": {
     "dateTime": "2024-01-07T17:00:00+01:00",
     "timeZone": "Europe/Berlin"
+   }
+  },
+  {
+   "htmlLink": "https://www.google.com/calendar/event?eid=NzZyNjNmcjgyNmpxdjgwamZuZ2VoazdxdmQgMWNxOTZhMDdrZmJodWRwYjFkczdpNzI1cWNAZw",
+   "summary": "Skat- und Rommé-Abend",
+   "start": {
+    "date": "2024-01-26"
+   },
+   "end": {
+    "date": "2024-01-27"
    }
   }
  ]
