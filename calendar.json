@@ -1,16 +1,6 @@
 {
  "items": [
   {
-   "htmlLink": "https://www.google.com/calendar/event?eid=NzZyNjNmcjgyNmpxdjgwamZuZ2VoazdxdmQgMWNxOTZhMDdrZmJodWRwYjFkczdpNzI1cWNAZw",
-   "summary": "Skat- und Rommé-Abend",
-   "start": {
-    "date": "2024-01-26"
-   },
-   "end": {
-    "date": "2024-01-27"
-   }
-  },
-  {
    "htmlLink": "https://www.google.com/calendar/event?eid=NW40anJzZG4zcGt1MzhtMzQ5aXN0bG9ucXNfMjAyNDAyMDRUMTMwMDAwWiAxY3E5NmEwN2tmYmh1ZHBiMWRzN2k3MjVxY0Bn",
    "summary": "Offenes Schloss",
    "description": "Schloss geöffnet mit Führungen durch das Gebäude, 14.00 bis 17.00 Uhr, mit Kaffee und Kuchen im Saal\nDie Seifersdorfer Kirche ist zeitgleich zu besichtigen.",
@@ -34,6 +24,16 @@
    "end": {
     "dateTime": "2024-02-07T21:30:00+01:00",
     "timeZone": "Europe/Berlin"
+   }
+  },
+  {
+   "htmlLink": "https://www.google.com/calendar/event?eid=NnU2bXA5azc2cHZncjltcGVic2JqZWlnMGQgMWNxOTZhMDdrZmJodWRwYjFkczdpNzI1cWNAZw",
+   "summary": "Festveranstaltung „20 Jahre Förderverein Seifersdorfer Schloss e. V. – 20 Jahre Ehrenamt fürs Schloss“",
+   "start": {
+    "date": "2024-02-25"
+   },
+   "end": {
+    "date": "2024-02-26"
    }
   }
  ]
