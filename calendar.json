@@ -1,18 +1,6 @@
 {
  "items": [
   {
-   "htmlLink": "https://www.google.com/calendar/event?eid=MWEyOG8wbWNyaWxubnBvcG42aTg0ODE0dDggMWNxOTZhMDdrZmJodWRwYjFkczdpNzI1cWNAZw",
-   "summary": "Letztes Offenes Schloss vor der Generalsanierung",
-   "start": {
-    "dateTime": "2024-02-24T11:00:00+01:00",
-    "timeZone": "Europe/Berlin"
-   },
-   "end": {
-    "dateTime": "2024-02-24T17:00:00+01:00",
-    "timeZone": "Europe/Berlin"
-   }
-  },
-  {
    "htmlLink": "https://www.google.com/calendar/event?eid=MXUwcmhyZGtxNTRhbTE0bHZ1OGFiMGVlb2sgMWNxOTZhMDdrZmJodWRwYjFkczdpNzI1cWNAZw",
    "summary": "Vortrag „Schinkels Engagement für Seifersdorf“ mit Professor Dr. Martina Abri",
    "start": {
@@ -32,6 +20,18 @@
    },
    "end": {
     "date": "2024-02-26"
+   }
+  },
+  {
+   "htmlLink": "https://www.google.com/calendar/event?eid=MWVwbG43MjlwbW9uMDZhZ2ltaDkzZzBvbHAgMWNxOTZhMDdrZmJodWRwYjFkczdpNzI1cWNAZw",
+   "summary": "Schließung Schloss Seifersdorf für die Sanierung bis vss. Herbst 2025 (EG), 1. OG bis ",
+   "start": {
+    "dateTime": "2024-02-28T20:25:00+01:00",
+    "timeZone": "Europe/Berlin"
+   },
+   "end": {
+    "dateTime": "2024-02-28T21:25:00+01:00",
+    "timeZone": "Europe/Berlin"
    }
   }
  ]
