@@ -1,16 +1,6 @@
 {
  "items": [
   {
-   "htmlLink": "https://www.google.com/calendar/event?eid=NnU2bXA5azc2cHZncjltcGVic2JqZWlnMGQgMWNxOTZhMDdrZmJodWRwYjFkczdpNzI1cWNAZw",
-   "summary": "Jubiläum 20 Jahre Förderverein Seifersdorfer Schloss e. V.",
-   "start": {
-    "date": "2024-02-25"
-   },
-   "end": {
-    "date": "2024-02-26"
-   }
-  },
-  {
    "htmlLink": "https://www.google.com/calendar/event?eid=MWVwbG43MjlwbW9uMDZhZ2ltaDkzZzBvbHAgMWNxOTZhMDdrZmJodWRwYjFkczdpNzI1cWNAZw",
    "summary": "Schließung Schloss Seifersdorf für die Sanierung bis vss. Herbst 2025 (EG), 1. OG bis ",
    "start": {
@@ -30,6 +20,19 @@
    },
    "end": {
     "date": "2024-03-02"
+   }
+  },
+  {
+   "htmlLink": "https://www.google.com/calendar/event?eid=NW40anJzZG4zcGt1MzhtMzQ5aXN0bG9ucXNfMjAyNDAzMDNUMTMwMDAwWiAxY3E5NmEwN2tmYmh1ZHBiMWRzN2k3MjVxY0Bn",
+   "summary": "Sanierungscafé im Schlosspark",
+   "description": "mit Führungen / Regenvariante Kirchgemeindehaus",
+   "start": {
+    "dateTime": "2024-03-03T14:00:00+01:00",
+    "timeZone": "Europe/Berlin"
+   },
+   "end": {
+    "dateTime": "2024-03-03T17:00:00+01:00",
+    "timeZone": "Europe/Berlin"
    }
   }
  ]
