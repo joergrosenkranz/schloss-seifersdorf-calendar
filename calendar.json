@@ -1,16 +1,6 @@
 {
  "items": [
   {
-   "htmlLink": "https://www.google.com/calendar/event?eid=MDQ2cWF2M21pdWtwYW0xNTJkMG9iazQ1OG4gMWNxOTZhMDdrZmJodWRwYjFkczdpNzI1cWNAZw",
-   "summary": "Start des „Baustellencafé im Schlosspark“ mit geschichtlichen Führungen im Park zum Schloss- und Park sowie Veranstaltungen",
-   "start": {
-    "date": "2024-03-01"
-   },
-   "end": {
-    "date": "2024-03-02"
-   }
-  },
-  {
    "htmlLink": "https://www.google.com/calendar/event?eid=NW40anJzZG4zcGt1MzhtMzQ5aXN0bG9ucXNfMjAyNDAzMDNUMTMwMDAwWiAxY3E5NmEwN2tmYmh1ZHBiMWRzN2k3MjVxY0Bn",
    "summary": "Sanierungscafé im Schlosspark",
    "description": "mit Führungen / Regenvariante Kirchgemeindehaus",
@@ -33,6 +23,19 @@
    },
    "end": {
     "dateTime": "2024-03-06T21:30:00+01:00",
+    "timeZone": "Europe/Berlin"
+   }
+  },
+  {
+   "htmlLink": "https://www.google.com/calendar/event?eid=NXBvZDY3dTU1aW9uN2JxZnIxOTdsNGQyOTIgMWNxOTZhMDdrZmJodWRwYjFkczdpNzI1cWNAZw",
+   "summary": "Vortrag „China“ von Thomas Lepczynski",
+   "description": "Kirchgemeindehaus",
+   "start": {
+    "dateTime": "2024-03-22T19:00:00+01:00",
+    "timeZone": "Europe/Berlin"
+   },
+   "end": {
+    "dateTime": "2024-03-22T20:00:00+01:00",
     "timeZone": "Europe/Berlin"
    }
   }
