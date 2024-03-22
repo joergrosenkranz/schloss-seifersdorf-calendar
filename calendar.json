@@ -1,19 +1,6 @@
 {
  "items": [
   {
-   "htmlLink": "https://www.google.com/calendar/event?eid=NXBvZDY3dTU1aW9uN2JxZnIxOTdsNGQyOTIgMWNxOTZhMDdrZmJodWRwYjFkczdpNzI1cWNAZw",
-   "summary": "Vortrag „China“ von Thomas Lepczynski",
-   "description": "Kirchgemeindehaus",
-   "start": {
-    "dateTime": "2024-03-22T19:00:00+01:00",
-    "timeZone": "Europe/Berlin"
-   },
-   "end": {
-    "dateTime": "2024-03-22T20:00:00+01:00",
-    "timeZone": "Europe/Berlin"
-   }
-  },
-  {
    "htmlLink": "https://www.google.com/calendar/event?eid=Z2tiOWtmczFwZWcxYjQ3dWFxamJpM2gzZmNfMjAyNDA0MDNUMTcwMDAwWiAxY3E5NmEwN2tmYmh1ZHBiMWRzN2k3MjVxY0Bn",
    "summary": "Vorstandssitzung",
    "description": "Vorstandssitzung des Fördervereins ",
@@ -36,6 +23,18 @@
    },
    "end": {
     "dateTime": "2024-04-07T17:00:00+02:00",
+    "timeZone": "Europe/Berlin"
+   }
+  },
+  {
+   "htmlLink": "https://www.google.com/calendar/event?eid=N3RwYmNrc2lvYTJvYTlmOWZ1aHNkMmFnYWkgMWNxOTZhMDdrZmJodWRwYjFkczdpNzI1cWNAZw",
+   "summary": "Kino im Kirchgemeindehaus",
+   "start": {
+    "dateTime": "2024-04-12T19:00:00+02:00",
+    "timeZone": "Europe/Berlin"
+   },
+   "end": {
+    "dateTime": "2024-04-12T20:00:00+02:00",
     "timeZone": "Europe/Berlin"
    }
   }
