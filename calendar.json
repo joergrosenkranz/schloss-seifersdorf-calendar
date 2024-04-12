@@ -1,18 +1,6 @@
 {
  "items": [
   {
-   "htmlLink": "https://www.google.com/calendar/event?eid=N3RwYmNrc2lvYTJvYTlmOWZ1aHNkMmFnYWkgMWNxOTZhMDdrZmJodWRwYjFkczdpNzI1cWNAZw",
-   "summary": "Kino im Kirchgemeindehaus",
-   "start": {
-    "dateTime": "2024-04-12T19:00:00+02:00",
-    "timeZone": "Europe/Berlin"
-   },
-   "end": {
-    "dateTime": "2024-04-12T20:00:00+02:00",
-    "timeZone": "Europe/Berlin"
-   }
-  },
-  {
    "htmlLink": "https://www.google.com/calendar/event?eid=MzI4cHI2bWx1Nm5icHZmZm85N3Jjam83OTcgMWNxOTZhMDdrZmJodWRwYjFkczdpNzI1cWNAZw",
    "summary": "Frühlingsfest \"Park erwacht\"",
    "start": {
@@ -32,6 +20,19 @@
    },
    "end": {
     "dateTime": "2024-05-05T17:00:00+02:00",
+    "timeZone": "Europe/Berlin"
+   }
+  },
+  {
+   "htmlLink": "https://www.google.com/calendar/event?eid=Z2tiOWtmczFwZWcxYjQ3dWFxamJpM2gzZmNfMjAyNDA1MDFUMTcwMDAwWiAxY3E5NmEwN2tmYmh1ZHBiMWRzN2k3MjVxY0Bn",
+   "summary": "Vorstandssitzung",
+   "description": "Vorstandssitzung des Fördervereins ",
+   "start": {
+    "dateTime": "2024-05-08T19:00:00+02:00",
+    "timeZone": "Europe/Berlin"
+   },
+   "end": {
+    "dateTime": "2024-05-08T21:30:00+02:00",
     "timeZone": "Europe/Berlin"
    }
   }
