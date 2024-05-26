@@ -1,16 +1,6 @@
 {
  "items": [
   {
-   "htmlLink": "https://www.google.com/calendar/event?eid=MGU0a2FuajN1NnFmNWh0dTFmcDhpcGRjaGQgMWNxOTZhMDdrZmJodWRwYjFkczdpNzI1cWNAZw",
-   "summary": "„Tag der Parks und Gärten“",
-   "start": {
-    "date": "2024-05-26"
-   },
-   "end": {
-    "date": "2024-05-27"
-   }
-  },
-  {
    "htmlLink": "https://www.google.com/calendar/event?eid=NW40anJzZG4zcGt1MzhtMzQ5aXN0bG9ucXNfMjAyNDA2MDJUMTIwMDAwWiAxY3E5NmEwN2tmYmh1ZHBiMWRzN2k3MjVxY0Bn",
    "summary": "3. Seifersdorfer Schloss- und Parksommer „Vom Schloss im Dornröschenschlaf zum Romantikschloss – die erste Generalsanierung seit 130 Jahren“",
    "description": "\u003cp\u003eFührungen, Kaffee und Kuchen im Schlosspark\u003cu\u003e\u003c/u\u003e\u003cu\u003e\u003c/u\u003e\u003c/p\u003e\u003cp\u003e17.00 Uhr Auftaktkonzert in der Seifersdorfer Kirche\u003cu\u003e\u003c/u\u003e\u003cu\u003e\u003c/u\u003e\u003c/p\u003e\u003cp\u003eCONCER´TRIO DRESDEN\u003cu\u003e\u003c/u\u003e\u003cu\u003e\u003c/u\u003e\u003c/p\u003e\u003cp\u003emit Musik von J.G. Walther, D. Ellington, G. Fauré, J. S. Bach u.a. in der Besetzung Jörg Röhrig, Trompete, Sabine Röhrig, Horn und KMD i. R. Gottfried Trepte Orgel.\u003c/p\u003e",
@@ -33,6 +23,19 @@
    },
    "end": {
     "dateTime": "2024-06-05T21:30:00+02:00",
+    "timeZone": "Europe/Berlin"
+   }
+  },
+  {
+   "htmlLink": "https://www.google.com/calendar/event?eid=MG80a2d1dGZybXFtcjNxOTNtcHRhZGFvMmMgMWNxOTZhMDdrZmJodWRwYjFkczdpNzI1cWNAZw",
+   "summary": "3. Seifersdorfer Schloss- und Parksommer „Vom Schloss im Dornröschenschlaf zum Romantikschloss – die erste Generalsanierung seit Jahren“",
+   "description": "\u003cp\u003eFührungen, Kaffee und Kuchen im Schlosspark\u003cu\u003e\u003c/u\u003e\u003cu\u003e\u003c/u\u003e\u003c/p\u003e\u003cp\u003eHandwerkermarkt 11-18 Uhr\u003c/p\u003e",
+   "start": {
+    "dateTime": "2024-06-16T11:00:00+02:00",
+    "timeZone": "Europe/Berlin"
+   },
+   "end": {
+    "dateTime": "2024-06-16T18:00:00+02:00",
     "timeZone": "Europe/Berlin"
    }
   }
