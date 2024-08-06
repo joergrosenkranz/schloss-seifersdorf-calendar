@@ -1,15 +1,14 @@
 {
  "items": [
   {
-   "htmlLink": "https://www.google.com/calendar/event?eid=Z2tiOWtmczFwZWcxYjQ3dWFxamJpM2gzZmNfMjAyNDA4MDdUMTcwMDAwWiAxY3E5NmEwN2tmYmh1ZHBiMWRzN2k3MjVxY0Bn",
-   "summary": "Vorstandssitzung",
-   "description": "Vorstandssitzung des Fördervereins ",
+   "htmlLink": "https://www.google.com/calendar/event?eid=Z2kyMGIwZGJrYWczdGY2YXVma2xuMDNzMjAgMWNxOTZhMDdrZmJodWRwYjFkczdpNzI1cWNAZw",
+   "summary": "Open Air Kino",
    "start": {
-    "dateTime": "2024-08-07T19:00:00+02:00",
+    "dateTime": "2024-08-09T20:00:00+02:00",
     "timeZone": "Europe/Berlin"
    },
    "end": {
-    "dateTime": "2024-08-07T21:30:00+02:00",
+    "dateTime": "2024-08-09T20:30:00+02:00",
     "timeZone": "Europe/Berlin"
    }
   },
