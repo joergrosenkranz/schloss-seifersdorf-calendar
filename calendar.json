@@ -1,15 +1,14 @@
 {
  "items": [
   {
-   "htmlLink": "https://www.google.com/calendar/event?eid=NW40anJzZG4zcGt1MzhtMzQ5aXN0bG9ucXNfMjAyNDA5MDFUMTIwMDAwWiAxY3E5NmEwN2tmYmh1ZHBiMWRzN2k3MjVxY0Bn",
-   "summary": "Sanierungscafé im Schlosspark",
-   "description": "mit Führungen / Regenvariante Kirchgemeindehaus",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MWc4OTBhaHZ1ZWJmZnRwM2phaWcybjU2bWcgMWNxOTZhMDdrZmJodWRwYjFkczdpNzI1cWNAZw",
+   "summary": "Rock im Schlosspark Seifersdorf",
    "start": {
-    "dateTime": "2024-09-01T14:00:00+02:00",
+    "dateTime": "2024-08-31T19:00:00+02:00",
     "timeZone": "Europe/Berlin"
    },
    "end": {
-    "dateTime": "2024-09-01T17:00:00+02:00",
+    "dateTime": "2024-08-31T20:00:00+02:00",
     "timeZone": "Europe/Berlin"
    }
   },
