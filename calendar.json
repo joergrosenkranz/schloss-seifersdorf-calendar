@@ -18,11 +18,11 @@
    "summary": "Vorstandssitzung",
    "description": "Vorstandssitzung des Fördervereins ",
    "start": {
-    "dateTime": "2024-10-02T19:00:00+02:00",
+    "dateTime": "2024-09-30T19:00:00+02:00",
     "timeZone": "Europe/Berlin"
    },
    "end": {
-    "dateTime": "2024-10-02T21:30:00+02:00",
+    "dateTime": "2024-09-30T21:30:00+02:00",
     "timeZone": "Europe/Berlin"
    }
   },
