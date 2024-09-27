@@ -1,19 +1,6 @@
 {
  "items": [
   {
-   "htmlLink": "https://www.google.com/calendar/event?eid=MWIxMmpoYjhka2p1ZGRwOWhjNWRybXY4OG0gMWNxOTZhMDdrZmJodWRwYjFkczdpNzI1cWNAZw",
-   "summary": "Abschluss 3. Seifersdorfer Schloss- und Parksommer „Vom Schloss im Dornröschenschlaf zum Romantikschloss – die erste Generalsanierung seit Jahren“",
-   "description": "\u003cp\u003eMit dem Kammerchores ad libitum aus Dresden und dem Programm \"Pax - Frieden - Peace\"\u003cu\u003e\u003c/u\u003e\u003cu\u003e\u003c/u\u003e\u003c/p\u003e\u003cp\u003eChormusik zum Thema von Victoria, Schütz, Bach, Mendelssohn Bartholdy, Distler, Rutter u.a.\u003c/p\u003e",
-   "start": {
-    "dateTime": "2024-09-27T19:00:00+02:00",
-    "timeZone": "Europe/Berlin"
-   },
-   "end": {
-    "dateTime": "2024-09-27T20:00:00+02:00",
-    "timeZone": "Europe/Berlin"
-   }
-  },
-  {
    "htmlLink": "https://www.google.com/calendar/event?eid=Z2tiOWtmczFwZWcxYjQ3dWFxamJpM2gzZmNfMjAyNDEwMDJUMTcwMDAwWiAxY3E5NmEwN2tmYmh1ZHBiMWRzN2k3MjVxY0Bn",
    "summary": "Vorstandssitzung",
    "description": "Vorstandssitzung des Fördervereins ",
@@ -36,6 +23,18 @@
    },
    "end": {
     "dateTime": "2024-10-06T17:00:00+02:00",
+    "timeZone": "Europe/Berlin"
+   }
+  },
+  {
+   "htmlLink": "https://www.google.com/calendar/event?eid=cWcyYnZodmh0NnRpa3YyYmN2djcyaWtnc28gMWNxOTZhMDdrZmJodWRwYjFkczdpNzI1cWNAZw",
+   "summary": "Friseur",
+   "start": {
+    "dateTime": "2024-10-15T07:30:00+02:00",
+    "timeZone": "Europe/Berlin"
+   },
+   "end": {
+    "dateTime": "2024-10-15T08:30:00+02:00",
     "timeZone": "Europe/Berlin"
    }
   }
