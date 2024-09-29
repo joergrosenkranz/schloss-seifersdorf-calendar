@@ -14,6 +14,18 @@
    }
   },
   {
+   "htmlLink": "https://www.google.com/calendar/event?eid=N3BjcGUxNGFzcmUzcm1mODJlY2NtMDkxaDAgMWNxOTZhMDdrZmJodWRwYjFkczdpNzI1cWNAZw",
+   "summary": "Kinderkino",
+   "start": {
+    "dateTime": "2024-10-03T15:00:00+02:00",
+    "timeZone": "Europe/Berlin"
+   },
+   "end": {
+    "dateTime": "2024-10-03T16:00:00+02:00",
+    "timeZone": "Europe/Berlin"
+   }
+  },
+  {
    "htmlLink": "https://www.google.com/calendar/event?eid=NW40anJzZG4zcGt1MzhtMzQ5aXN0bG9ucXNfMjAyNDEwMDZUMTIwMDAwWiAxY3E5NmEwN2tmYmh1ZHBiMWRzN2k3MjVxY0Bn",
    "summary": "Sanierungscafé im Schlosspark",
    "description": "mit Führungen / Regenvariante Kirchgemeindehaus",
@@ -23,18 +35,6 @@
    },
    "end": {
     "dateTime": "2024-10-06T17:00:00+02:00",
-    "timeZone": "Europe/Berlin"
-   }
-  },
-  {
-   "htmlLink": "https://www.google.com/calendar/event?eid=cWcyYnZodmh0NnRpa3YyYmN2djcyaWtnc28gMWNxOTZhMDdrZmJodWRwYjFkczdpNzI1cWNAZw",
-   "summary": "Friseur",
-   "start": {
-    "dateTime": "2024-10-15T07:30:00+02:00",
-    "timeZone": "Europe/Berlin"
-   },
-   "end": {
-    "dateTime": "2024-10-15T08:30:00+02:00",
     "timeZone": "Europe/Berlin"
    }
   }
