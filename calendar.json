@@ -1,19 +1,6 @@
 {
  "items": [
   {
-   "htmlLink": "https://www.google.com/calendar/event?eid=Z2tiOWtmczFwZWcxYjQ3dWFxamJpM2gzZmNfMjAyNDExMDZUMTgwMDAwWiAxY3E5NmEwN2tmYmh1ZHBiMWRzN2k3MjVxY0Bn",
-   "summary": "Vorstandssitzung",
-   "description": "Vorstandssitzung des Fördervereins ",
-   "start": {
-    "dateTime": "2024-11-06T19:00:00+01:00",
-    "timeZone": "Europe/Berlin"
-   },
-   "end": {
-    "dateTime": "2024-11-06T21:30:00+01:00",
-    "timeZone": "Europe/Berlin"
-   }
-  },
-  {
    "htmlLink": "https://www.google.com/calendar/event?eid=N21vbmtwamhhdmpkb3VydTN2dWNnZXVvZGMgMWNxOTZhMDdrZmJodWRwYjFkczdpNzI1cWNAZw",
    "summary": "Mitgliederversammlung",
    "start": {
@@ -33,6 +20,16 @@
    },
    "end": {
     "date": "2024-11-15"
+   }
+  },
+  {
+   "htmlLink": "https://www.google.com/calendar/event?eid=NHJwYTA1YjNsczZyanFpdWNzNmgyNDZjdjAgMWNxOTZhMDdrZmJodWRwYjFkczdpNzI1cWNAZw",
+   "summary": "Vortrag: Island",
+   "start": {
+    "date": "2024-11-19"
+   },
+   "end": {
+    "date": "2024-11-20"
    }
   }
  ]
