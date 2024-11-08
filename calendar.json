@@ -1,18 +1,6 @@
 {
  "items": [
   {
-   "htmlLink": "https://www.google.com/calendar/event?eid=N21vbmtwamhhdmpkb3VydTN2dWNnZXVvZGMgMWNxOTZhMDdrZmJodWRwYjFkczdpNzI1cWNAZw",
-   "summary": "Mitgliederversammlung",
-   "start": {
-    "dateTime": "2024-11-08T18:00:00+01:00",
-    "timeZone": "Europe/Berlin"
-   },
-   "end": {
-    "dateTime": "2024-11-08T19:00:00+01:00",
-    "timeZone": "Europe/Berlin"
-   }
-  },
-  {
    "htmlLink": "https://www.google.com/calendar/event?eid=NTk3YzNpa3BtY2s1czJzZ2VxNzkyYWgwanYgMWNxOTZhMDdrZmJodWRwYjFkczdpNzI1cWNAZw",
    "summary": "Save the Date: Besucherzentrum",
    "start": {
@@ -30,6 +18,16 @@
    },
    "end": {
     "date": "2024-11-20"
+   }
+  },
+  {
+   "htmlLink": "https://www.google.com/calendar/event?eid=M2k4ZHQ3bzA2MWQxcGU4ZmhyaGcxNDY2a3AgMWNxOTZhMDdrZmJodWRwYjFkczdpNzI1cWNAZw",
+   "summary": "Arbeitseinsatz im Park - Laub",
+   "start": {
+    "date": "2024-11-23"
+   },
+   "end": {
+    "date": "2024-11-24"
    }
   }
  ]
