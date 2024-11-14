@@ -1,16 +1,6 @@
 {
  "items": [
   {
-   "htmlLink": "https://www.google.com/calendar/event?eid=NTk3YzNpa3BtY2s1czJzZ2VxNzkyYWgwanYgMWNxOTZhMDdrZmJodWRwYjFkczdpNzI1cWNAZw",
-   "summary": "Save the Date: Besucherzentrum",
-   "start": {
-    "date": "2024-11-14"
-   },
-   "end": {
-    "date": "2024-11-15"
-   }
-  },
-  {
    "htmlLink": "https://www.google.com/calendar/event?eid=NHJwYTA1YjNsczZyanFpdWNzNmgyNDZjdjAgMWNxOTZhMDdrZmJodWRwYjFkczdpNzI1cWNAZw",
    "summary": "Vortrag: Island",
    "start": {
@@ -28,6 +18,19 @@
    },
    "end": {
     "date": "2024-11-24"
+   }
+  },
+  {
+   "htmlLink": "https://www.google.com/calendar/event?eid=NW40anJzZG4zcGt1MzhtMzQ5aXN0bG9ucXNfMjAyNDEyMDFUMTMwMDAwWiAxY3E5NmEwN2tmYmh1ZHBiMWRzN2k3MjVxY0Bn",
+   "summary": "Sanierungscafé im Schlosspark",
+   "description": "mit Führungen / Regenvariante Kirchgemeindehaus",
+   "start": {
+    "dateTime": "2024-12-01T14:00:00+01:00",
+    "timeZone": "Europe/Berlin"
+   },
+   "end": {
+    "dateTime": "2024-12-01T17:00:00+01:00",
+    "timeZone": "Europe/Berlin"
    }
   }
  ]
