@@ -1,16 +1,6 @@
 {
  "items": [
   {
-   "htmlLink": "https://www.google.com/calendar/event?eid=NHJwYTA1YjNsczZyanFpdWNzNmgyNDZjdjAgMWNxOTZhMDdrZmJodWRwYjFkczdpNzI1cWNAZw",
-   "summary": "Vortrag: Island",
-   "start": {
-    "date": "2024-11-19"
-   },
-   "end": {
-    "date": "2024-11-20"
-   }
-  },
-  {
    "htmlLink": "https://www.google.com/calendar/event?eid=M2k4ZHQ3bzA2MWQxcGU4ZmhyaGcxNDY2a3AgMWNxOTZhMDdrZmJodWRwYjFkczdpNzI1cWNAZw",
    "summary": "Arbeitseinsatz im Park - Laub",
    "start": {
@@ -30,6 +20,19 @@
    },
    "end": {
     "dateTime": "2024-12-01T17:00:00+01:00",
+    "timeZone": "Europe/Berlin"
+   }
+  },
+  {
+   "htmlLink": "https://www.google.com/calendar/event?eid=Z2tiOWtmczFwZWcxYjQ3dWFxamJpM2gzZmNfMjAyNDEyMDRUMTgwMDAwWiAxY3E5NmEwN2tmYmh1ZHBiMWRzN2k3MjVxY0Bn",
+   "summary": "Vorstandssitzung",
+   "description": "Vorstandssitzung des Fördervereins ",
+   "start": {
+    "dateTime": "2024-12-04T19:00:00+01:00",
+    "timeZone": "Europe/Berlin"
+   },
+   "end": {
+    "dateTime": "2024-12-04T21:30:00+01:00",
     "timeZone": "Europe/Berlin"
    }
   }
