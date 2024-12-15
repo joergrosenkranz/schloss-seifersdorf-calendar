@@ -1,16 +1,6 @@
 {
  "items": [
   {
-   "htmlLink": "https://www.google.com/calendar/event?eid=MDR0aWpjMGY0cDlidGRlbTJoaWczcThsZmwgMWNxOTZhMDdrZmJodWRwYjFkczdpNzI1cWNAZw",
-   "summary": "Advent im Pfarrhof und in der Kirche",
-   "start": {
-    "date": "2024-12-15"
-   },
-   "end": {
-    "date": "2024-12-16"
-   }
-  },
-  {
    "htmlLink": "https://www.google.com/calendar/event?eid=Z2tiOWtmczFwZWcxYjQ3dWFxamJpM2gzZmNfMjAyNTAxMDFUMTgwMDAwWiAxY3E5NmEwN2tmYmh1ZHBiMWRzN2k3MjVxY0Bn",
    "summary": "Vorstandssitzung",
    "description": "Vorstandssitzung des Fördervereins ",
@@ -33,6 +23,19 @@
    },
    "end": {
     "dateTime": "2025-01-05T17:00:00+01:00",
+    "timeZone": "Europe/Berlin"
+   }
+  },
+  {
+   "htmlLink": "https://www.google.com/calendar/event?eid=NW40anJzZG4zcGt1MzhtMzQ5aXN0bG9ucXNfMjAyNTAyMDJUMTMwMDAwWiAxY3E5NmEwN2tmYmh1ZHBiMWRzN2k3MjVxY0Bn",
+   "summary": "Sanierungscafé im Schlosspark",
+   "description": "mit Führungen / Regenvariante Kirchgemeindehaus",
+   "start": {
+    "dateTime": "2025-02-02T14:00:00+01:00",
+    "timeZone": "Europe/Berlin"
+   },
+   "end": {
+    "dateTime": "2025-02-02T17:00:00+01:00",
     "timeZone": "Europe/Berlin"
    }
   }
