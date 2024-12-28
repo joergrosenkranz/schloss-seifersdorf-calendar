@@ -27,16 +27,13 @@
    }
   },
   {
-   "htmlLink": "https://www.google.com/calendar/event?eid=NW40anJzZG4zcGt1MzhtMzQ5aXN0bG9ucXNfMjAyNTAyMDJUMTMwMDAwWiAxY3E5NmEwN2tmYmh1ZHBiMWRzN2k3MjVxY0Bn",
-   "summary": "Sanierungscafé im Schlosspark",
-   "description": "mit Führungen / Regenvariante Kirchgemeindehaus",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MDd2OGtyMTRxNnUxNGJsZHV0YXMwNWoybTAgMWNxOTZhMDdrZmJodWRwYjFkczdpNzI1cWNAZw",
+   "summary": "Vorstandssitzung",
    "start": {
-    "dateTime": "2025-02-02T14:00:00+01:00",
-    "timeZone": "Europe/Berlin"
+    "date": "2025-01-07"
    },
    "end": {
-    "dateTime": "2025-02-02T17:00:00+01:00",
-    "timeZone": "Europe/Berlin"
+    "date": "2025-01-08"
    }
   }
  ]
