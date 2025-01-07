@@ -1,16 +1,6 @@
 {
  "items": [
   {
-   "htmlLink": "https://www.google.com/calendar/event?eid=MDd2OGtyMTRxNnUxNGJsZHV0YXMwNWoybTAgMWNxOTZhMDdrZmJodWRwYjFkczdpNzI1cWNAZw",
-   "summary": "Vorstandssitzung",
-   "start": {
-    "date": "2025-01-07"
-   },
-   "end": {
-    "date": "2025-01-08"
-   }
-  },
-  {
    "htmlLink": "https://www.google.com/calendar/event?eid=NjExM3BtMXU4ZjVpbzB1ZzEwb2htN2FydG4gMWNxOTZhMDdrZmJodWRwYjFkczdpNzI1cWNAZw",
    "summary": "Rommé- und Skat-Abend im Pfarrhaus ",
    "start": {
@@ -30,6 +20,19 @@
    },
    "end": {
     "dateTime": "2025-02-02T17:00:00+01:00",
+    "timeZone": "Europe/Berlin"
+   }
+  },
+  {
+   "htmlLink": "https://www.google.com/calendar/event?eid=Z2tiOWtmczFwZWcxYjQ3dWFxamJpM2gzZmNfMjAyNTAyMDVUMTgwMDAwWiAxY3E5NmEwN2tmYmh1ZHBiMWRzN2k3MjVxY0Bn",
+   "summary": "Vorstandssitzung",
+   "description": "Vorstandssitzung des Fördervereins ",
+   "start": {
+    "dateTime": "2025-02-05T19:00:00+01:00",
+    "timeZone": "Europe/Berlin"
+   },
+   "end": {
+    "dateTime": "2025-02-05T21:30:00+01:00",
     "timeZone": "Europe/Berlin"
    }
   }
