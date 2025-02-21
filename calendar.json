@@ -14,6 +14,18 @@
    }
   },
   {
+   "htmlLink": "https://www.google.com/calendar/event?eid=NzI3Y3A0OWRyYmw0djR0cWlpcW1wc3RsN2wgMWNxOTZhMDdrZmJodWRwYjFkczdpNzI1cWNAZw",
+   "summary": "Mitgliederversammlung",
+   "start": {
+    "dateTime": "2025-03-04T19:00:00+01:00",
+    "timeZone": "Europe/Berlin"
+   },
+   "end": {
+    "dateTime": "2025-03-04T20:00:00+01:00",
+    "timeZone": "Europe/Berlin"
+   }
+  },
+  {
    "htmlLink": "https://www.google.com/calendar/event?eid=Z2tiOWtmczFwZWcxYjQ3dWFxamJpM2gzZmNfMjAyNTAzMDVUMTgwMDAwWiAxY3E5NmEwN2tmYmh1ZHBiMWRzN2k3MjVxY0Bn",
    "summary": "Vorstandssitzung",
    "description": "Vorstandssitzung des Fördervereins ",
@@ -23,19 +35,6 @@
    },
    "end": {
     "dateTime": "2025-03-05T21:30:00+01:00",
-    "timeZone": "Europe/Berlin"
-   }
-  },
-  {
-   "htmlLink": "https://www.google.com/calendar/event?eid=Z2tiOWtmczFwZWcxYjQ3dWFxamJpM2gzZmNfMjAyNTA0MDJUMTcwMDAwWiAxY3E5NmEwN2tmYmh1ZHBiMWRzN2k3MjVxY0Bn",
-   "summary": "Vorstandssitzung",
-   "description": "Vorstandssitzung des Fördervereins ",
-   "start": {
-    "dateTime": "2025-04-02T19:00:00+02:00",
-    "timeZone": "Europe/Berlin"
-   },
-   "end": {
-    "dateTime": "2025-04-02T21:30:00+02:00",
     "timeZone": "Europe/Berlin"
    }
   }
