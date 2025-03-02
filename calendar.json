@@ -1,19 +1,6 @@
 {
  "items": [
   {
-   "htmlLink": "https://www.google.com/calendar/event?eid=NW40anJzZG4zcGt1MzhtMzQ5aXN0bG9ucXNfMjAyNTAzMDJUMTMwMDAwWiAxY3E5NmEwN2tmYmh1ZHBiMWRzN2k3MjVxY0Bn",
-   "summary": "Sanierungscafé im Schlosspark",
-   "description": "mit Führungen / Regenvariante Kirchgemeindehaus",
-   "start": {
-    "dateTime": "2025-03-02T14:00:00+01:00",
-    "timeZone": "Europe/Berlin"
-   },
-   "end": {
-    "dateTime": "2025-03-02T17:00:00+01:00",
-    "timeZone": "Europe/Berlin"
-   }
-  },
-  {
    "htmlLink": "https://www.google.com/calendar/event?eid=NzI3Y3A0OWRyYmw0djR0cWlpcW1wc3RsN2wgMWNxOTZhMDdrZmJodWRwYjFkczdpNzI1cWNAZw",
    "summary": "Mitgliederversammlung",
    "start": {
@@ -35,6 +22,19 @@
    },
    "end": {
     "dateTime": "2025-03-05T21:30:00+01:00",
+    "timeZone": "Europe/Berlin"
+   }
+  },
+  {
+   "htmlLink": "https://www.google.com/calendar/event?eid=NGhkZmJwaXIzdXI4cjFnNDAyNGpxZXVkOGQgMWNxOTZhMDdrZmJodWRwYjFkczdpNzI1cWNAZw",
+   "summary": "Vortrag \"Dem Himmel ein Stück näher\"",
+   "description": "\u003cp\u003eZu Leben und Werk des sächsischen Zimmermeisters und Architekten George Bähr (1666-1738)\u003c/p\u003e\u003cp\u003eDr. Hans-Joachim Jäger\u003c/p\u003e\u003cp\u003eam Sonntag, 16. März 2025, 16 Uhr \u003cspan\u003eim Kirchgemeindehaus \u003c/span\u003e\u003cspan\u003eKirchgasse 5\u003c/span\u003e\u003c/p\u003e",
+   "start": {
+    "dateTime": "2025-03-16T16:00:00+01:00",
+    "timeZone": "Europe/Berlin"
+   },
+   "end": {
+    "dateTime": "2025-03-16T17:00:00+01:00",
     "timeZone": "Europe/Berlin"
    }
   }
