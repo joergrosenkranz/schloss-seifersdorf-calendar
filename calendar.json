@@ -1,19 +1,6 @@
 {
  "items": [
   {
-   "htmlLink": "https://www.google.com/calendar/event?eid=NGxlaGZiOTlpNnBobXNmOG1zc3RnN29ocGMgMWNxOTZhMDdrZmJodWRwYjFkczdpNzI1cWNAZw",
-   "summary": "Eröffnung des 4. Seifersdorfer Schloss- und Parksommers",
-   "description": "zum \"Tag der Parks und Gärten\" mit \"Park erwacht\"\n\n15:00 Auftakt mit Performance der Hochschule für Musik in Dresden im Schlosspark und Begleitung der Kreismusikschule Bautzen\n\nGrillstand, Kaffee und Kuchen.\n\nStündlich 11 bis 16 Uhr Führungen zur Schlossgeschichte im Schlosspark\n\n13 Uhr Kinderspaß mit Attel",
-   "start": {
-    "dateTime": "2025-05-25T11:00:00+02:00",
-    "timeZone": "Europe/Berlin"
-   },
-   "end": {
-    "dateTime": "2025-05-25T17:00:00+02:00",
-    "timeZone": "Europe/Berlin"
-   }
-  },
-  {
    "htmlLink": "https://www.google.com/calendar/event?eid=NW40anJzZG4zcGt1MzhtMzQ5aXN0bG9ucXNfMjAyNTA2MDFUMTIwMDAwWiAxY3E5NmEwN2tmYmh1ZHBiMWRzN2k3MjVxY0Bn",
    "summary": "Sanierungscafé im Schlosspark",
    "description": "mit Führungen / Regenvariante Kirchgemeindehaus",
@@ -36,6 +23,19 @@
    },
    "end": {
     "dateTime": "2025-06-04T21:30:00+02:00",
+    "timeZone": "Europe/Berlin"
+   }
+  },
+  {
+   "htmlLink": "https://www.google.com/calendar/event?eid=NmZzaHM0YjZ0Z2xhdTQ4YXZuNnVqcDZ1b3EgMWNxOTZhMDdrZmJodWRwYjFkczdpNzI1cWNAZw",
+   "summary": "Seifersdorfer Handwerker- und Kreativmarkt",
+   "description": "Erleben Sie Handwerker und Künstler mit kreativen Waren und Auftritte des Lomnitzer Carnevalsvereins und des Saxchamaeleon Dresden!",
+   "start": {
+    "dateTime": "2025-06-22T10:00:00+02:00",
+    "timeZone": "Europe/Berlin"
+   },
+   "end": {
+    "dateTime": "2025-06-22T18:00:00+02:00",
     "timeZone": "Europe/Berlin"
    }
   }
