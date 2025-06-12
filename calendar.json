@@ -1,14 +1,43 @@
 {
-  "error": {
-    "code": 503,
-    "message": "Visibility check was unavailable. Please retry the request and contact support if the problem persists",
-    "errors": [
-      {
-        "message": "Visibility check was unavailable. Please retry the request and contact support if the problem persists",
-        "domain": "global",
-        "reason": "backendError"
-      }
-    ],
-    "status": "UNAVAILABLE"
+ "items": [
+  {
+   "htmlLink": "https://www.google.com/calendar/event?eid=NmZzaHM0YjZ0Z2xhdTQ4YXZuNnVqcDZ1b3EgMWNxOTZhMDdrZmJodWRwYjFkczdpNzI1cWNAZw",
+   "summary": "Seifersdorfer Handwerker- und Kreativmarkt",
+   "description": "Erleben Sie Handwerker und Künstler mit kreativen Waren und Auftritte des Lomnitzer Carnevalsvereins und des Saxchamaeleon Dresden!",
+   "start": {
+    "dateTime": "2025-06-22T10:00:00+02:00",
+    "timeZone": "Europe/Berlin"
+   },
+   "end": {
+    "dateTime": "2025-06-22T18:00:00+02:00",
+    "timeZone": "Europe/Berlin"
+   }
+  },
+  {
+   "htmlLink": "https://www.google.com/calendar/event?eid=Z2tiOWtmczFwZWcxYjQ3dWFxamJpM2gzZmNfMjAyNTA3MDJUMTcwMDAwWiAxY3E5NmEwN2tmYmh1ZHBiMWRzN2k3MjVxY0Bn",
+   "summary": "Vorstandssitzung",
+   "description": "Vorstandssitzung des Fördervereins ",
+   "start": {
+    "dateTime": "2025-07-02T19:00:00+02:00",
+    "timeZone": "Europe/Berlin"
+   },
+   "end": {
+    "dateTime": "2025-07-02T21:30:00+02:00",
+    "timeZone": "Europe/Berlin"
+   }
+  },
+  {
+   "htmlLink": "https://www.google.com/calendar/event?eid=N3RhZWVtMGZjbjJmOWNjbnBlbDd1a2pidWMgMWNxOTZhMDdrZmJodWRwYjFkczdpNzI1cWNAZw",
+   "summary": "Sommerkonzert mit Trompeten",
+   "description": "Stündlich 14 bis 16 Uhr Führungen zur Schlossgeschichte im Schlosspark.\n\n15 Uhr Konzert Trompetertrio mit Mathias Schmutzler und Kollegen von der Staatskapelle Dresden.",
+   "start": {
+    "dateTime": "2025-07-06T14:00:00+02:00",
+    "timeZone": "Europe/Berlin"
+   },
+   "end": {
+    "dateTime": "2025-07-06T17:00:00+02:00",
+    "timeZone": "Europe/Berlin"
+   }
   }
+ ]
 }
