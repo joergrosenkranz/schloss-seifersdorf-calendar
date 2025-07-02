@@ -1,19 +1,6 @@
 {
  "items": [
   {
-   "htmlLink": "https://www.google.com/calendar/event?eid=Z2tiOWtmczFwZWcxYjQ3dWFxamJpM2gzZmNfMjAyNTA3MDJUMTcwMDAwWiAxY3E5NmEwN2tmYmh1ZHBiMWRzN2k3MjVxY0Bn",
-   "summary": "Vorstandssitzung",
-   "description": "Vorstandssitzung des Fördervereins ",
-   "start": {
-    "dateTime": "2025-07-02T19:00:00+02:00",
-    "timeZone": "Europe/Berlin"
-   },
-   "end": {
-    "dateTime": "2025-07-02T21:30:00+02:00",
-    "timeZone": "Europe/Berlin"
-   }
-  },
-  {
    "htmlLink": "https://www.google.com/calendar/event?eid=N3RhZWVtMGZjbjJmOWNjbnBlbDd1a2pidWMgMWNxOTZhMDdrZmJodWRwYjFkczdpNzI1cWNAZw",
    "summary": "Sommerkonzert mit Trompeten",
    "description": "Stündlich 14 bis 16 Uhr Führungen zur Schlossgeschichte im Schlosspark.\n\n15 Uhr Konzert Trompetertrio mit Mathias Schmutzler und Kollegen von der Staatskapelle Dresden.",
@@ -36,6 +23,19 @@
    },
    "end": {
     "dateTime": "2025-08-03T17:00:00+02:00",
+    "timeZone": "Europe/Berlin"
+   }
+  },
+  {
+   "htmlLink": "https://www.google.com/calendar/event?eid=Z2tiOWtmczFwZWcxYjQ3dWFxamJpM2gzZmNfMjAyNTA4MDZUMTcwMDAwWiAxY3E5NmEwN2tmYmh1ZHBiMWRzN2k3MjVxY0Bn",
+   "summary": "Vorstandssitzung",
+   "description": "Vorstandssitzung des Fördervereins ",
+   "start": {
+    "dateTime": "2025-08-06T19:00:00+02:00",
+    "timeZone": "Europe/Berlin"
+   },
+   "end": {
+    "dateTime": "2025-08-06T21:30:00+02:00",
     "timeZone": "Europe/Berlin"
    }
   }
