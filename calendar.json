@@ -1,19 +1,6 @@
 {
  "items": [
   {
-   "htmlLink": "https://www.google.com/calendar/event?eid=N3RhZWVtMGZjbjJmOWNjbnBlbDd1a2pidWMgMWNxOTZhMDdrZmJodWRwYjFkczdpNzI1cWNAZw",
-   "summary": "Sommerkonzert mit Trompeten",
-   "description": "Stündlich 14 bis 16 Uhr Führungen zur Schlossgeschichte im Schlosspark.\n\n15 Uhr Konzert Trompetertrio mit Mathias Schmutzler und Kollegen von der Staatskapelle Dresden.",
-   "start": {
-    "dateTime": "2025-07-06T14:00:00+02:00",
-    "timeZone": "Europe/Berlin"
-   },
-   "end": {
-    "dateTime": "2025-07-06T17:00:00+02:00",
-    "timeZone": "Europe/Berlin"
-   }
-  },
-  {
    "htmlLink": "https://www.google.com/calendar/event?eid=NW40anJzZG4zcGt1MzhtMzQ5aXN0bG9ucXNfMjAyNTA4MDNUMTIwMDAwWiAxY3E5NmEwN2tmYmh1ZHBiMWRzN2k3MjVxY0Bn",
    "summary": "Sanierungscafé im Schlosspark",
    "description": "mit Führungen / Regenvariante Kirchgemeindehaus",
@@ -36,6 +23,19 @@
    },
    "end": {
     "dateTime": "2025-08-06T21:30:00+02:00",
+    "timeZone": "Europe/Berlin"
+   }
+  },
+  {
+   "htmlLink": "https://www.google.com/calendar/event?eid=MzRlaGplNnUxdmdnajE2ZDlidmJhN2FhNHAgMWNxOTZhMDdrZmJodWRwYjFkczdpNzI1cWNAZw",
+   "summary": "Kino im Park",
+   "description": "Der Film wird noch bekannt gegeben.",
+   "start": {
+    "dateTime": "2025-08-15T20:00:00+02:00",
+    "timeZone": "Europe/Berlin"
+   },
+   "end": {
+    "dateTime": "2025-08-15T22:00:00+02:00",
     "timeZone": "Europe/Berlin"
    }
   }
