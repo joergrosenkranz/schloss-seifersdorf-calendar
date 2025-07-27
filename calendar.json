@@ -1,16 +1,6 @@
 {
  "items": [
   {
-   "htmlLink": "https://www.google.com/calendar/event?eid=NWw3bDBhN283c3B0YmdodDJ0bTBsdG9vMHUgMWNxOTZhMDdrZmJodWRwYjFkczdpNzI1cWNAZw",
-   "summary": "Schloss- und Parksommer",
-   "start": {
-    "date": "2025-07-27"
-   },
-   "end": {
-    "date": "2025-07-28"
-   }
-  },
-  {
    "htmlLink": "https://www.google.com/calendar/event?eid=Z2tiOWtmczFwZWcxYjQ3dWFxamJpM2gzZmNfMjAyNTA4MDZUMTcwMDAwWiAxY3E5NmEwN2tmYmh1ZHBiMWRzN2k3MjVxY0Bn",
    "summary": "Vorstandssitzung",
    "description": "Vorstandssitzung des Fördervereins ",
@@ -33,6 +23,19 @@
    },
    "end": {
     "dateTime": "2025-08-15T22:00:00+02:00",
+    "timeZone": "Europe/Berlin"
+   }
+  },
+  {
+   "htmlLink": "https://www.google.com/calendar/event?eid=NzFjOWU4Zm1mN2czbnN1Zm82bGoxMWlrb2UgMWNxOTZhMDdrZmJodWRwYjFkczdpNzI1cWNAZw",
+   "summary": "Tag der Teilhabe mit dem Epilepsiezentrum Kleinwachau",
+   "description": "Aufführung eines Theaterstücks durch Bewohner des Epilepsiezentrums Kleinwachau.\n\nStündlich 14 bis 16 Uhr Fuhrungen zur Schlossgeschichte im Park.",
+   "start": {
+    "dateTime": "2025-08-17T14:00:00+02:00",
+    "timeZone": "Europe/Berlin"
+   },
+   "end": {
+    "dateTime": "2025-08-17T17:00:00+02:00",
     "timeZone": "Europe/Berlin"
    }
   }
