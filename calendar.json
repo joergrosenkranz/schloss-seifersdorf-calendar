@@ -1,15 +1,15 @@
 {
  "items": [
   {
-   "htmlLink": "https://www.google.com/calendar/event?eid=MzRlaGplNnUxdmdnajE2ZDlidmJhN2FhNHAgMWNxOTZhMDdrZmJodWRwYjFkczdpNzI1cWNAZw",
-   "summary": "Kino im Park",
-   "description": "Der Film wird noch bekannt gegeben.",
+   "htmlLink": "https://www.google.com/calendar/event?eid=Z2tiOWtmczFwZWcxYjQ3dWFxamJpM2gzZmNfMjAyNTA4MDZUMTcwMDAwWiAxY3E5NmEwN2tmYmh1ZHBiMWRzN2k3MjVxY0Bn",
+   "summary": "Vorstandssitzung",
+   "description": "Vorstandssitzung des Fördervereins ",
    "start": {
-    "dateTime": "2025-08-15T20:00:00+02:00",
+    "dateTime": "2025-08-14T19:00:00+02:00",
     "timeZone": "Europe/Berlin"
    },
    "end": {
-    "dateTime": "2025-08-15T22:00:00+02:00",
+    "dateTime": "2025-08-14T21:30:00+02:00",
     "timeZone": "Europe/Berlin"
    }
   },
@@ -27,14 +27,14 @@
    }
   },
   {
-   "htmlLink": "https://www.google.com/calendar/event?eid=NnI0bjQxYTZtM2EzaXQwZXExcjFua2xja2kgMWNxOTZhMDdrZmJodWRwYjFkczdpNzI1cWNAZw",
-   "summary": "Rock im Schlosspark",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MnExbjByb291bHBhMG9sZ2UyMTRwbnV1OGEgMWNxOTZhMDdrZmJodWRwYjFkczdpNzI1cWNAZw",
+   "summary": "Theater im Park: \"Ein Sommernachtstraum\"",
    "start": {
-    "dateTime": "2025-08-30T17:00:00+02:00",
+    "dateTime": "2025-08-17T16:00:00+02:00",
     "timeZone": "Europe/Berlin"
    },
    "end": {
-    "dateTime": "2025-08-30T22:00:00+02:00",
+    "dateTime": "2025-08-17T17:00:00+02:00",
     "timeZone": "Europe/Berlin"
    }
   }
