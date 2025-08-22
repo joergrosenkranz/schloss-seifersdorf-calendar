@@ -1,19 +1,6 @@
 {
  "items": [
   {
-   "htmlLink": "https://www.google.com/calendar/event?eid=MzRlaGplNnUxdmdnajE2ZDlidmJhN2FhNHAgMWNxOTZhMDdrZmJodWRwYjFkczdpNzI1cWNAZw",
-   "summary": "Kino im Park: \"Ich war noch niemals in New York\"",
-   "description": "Eintritt frei! Wir sammeln Spenden fürs Schloss.",
-   "start": {
-    "dateTime": "2025-08-22T20:00:00+02:00",
-    "timeZone": "Europe/Berlin"
-   },
-   "end": {
-    "dateTime": "2025-08-22T22:00:00+02:00",
-    "timeZone": "Europe/Berlin"
-   }
-  },
-  {
    "htmlLink": "https://www.google.com/calendar/event?eid=NnI0bjQxYTZtM2EzaXQwZXExcjFua2xja2kgMWNxOTZhMDdrZmJodWRwYjFkczdpNzI1cWNAZw",
    "summary": "Rock im Schlosspark",
    "description": "Eigenartig, Condor, Nachtgetüm\n\nEintritt frei! Wir sammeln Spenden zur Sanierung des Schlosses.",
@@ -36,6 +23,19 @@
    },
    "end": {
     "dateTime": "2025-09-03T21:30:00+02:00",
+    "timeZone": "Europe/Berlin"
+   }
+  },
+  {
+   "htmlLink": "https://www.google.com/calendar/event?eid=NGI1OWhubmtmcjJsMThwYTBvNzJhMjAwdjMgMWNxOTZhMDdrZmJodWRwYjFkczdpNzI1cWNAZw",
+   "summary": "Tag des offenen Denkmals",
+   "description": "Abschlussveranstaltung des 4. Seifersdorfer Schloss- und Parksommers.\n\nStündlich Führungen zur Schlossgeschichte im Schlosspark mit Infos zur Sanierung.\n\n14:00 Konzert in der Seifersdorfer Kirche mit Mathias Schmutzler (Trompete), Magdalena Schmutzler (Harfe) und Gottfried Trepte (Orgel).",
+   "start": {
+    "dateTime": "2025-09-14T10:00:00+02:00",
+    "timeZone": "Europe/Berlin"
+   },
+   "end": {
+    "dateTime": "2025-09-14T17:00:00+02:00",
     "timeZone": "Europe/Berlin"
    }
   }
