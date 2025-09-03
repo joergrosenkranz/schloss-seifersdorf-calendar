@@ -1,19 +1,6 @@
 {
  "items": [
   {
-   "htmlLink": "https://www.google.com/calendar/event?eid=Z2tiOWtmczFwZWcxYjQ3dWFxamJpM2gzZmNfMjAyNTA5MDNUMTcwMDAwWiAxY3E5NmEwN2tmYmh1ZHBiMWRzN2k3MjVxY0Bn",
-   "summary": "Vorstandssitzung",
-   "description": "Vorstandssitzung des Fördervereins ",
-   "start": {
-    "dateTime": "2025-09-03T19:00:00+02:00",
-    "timeZone": "Europe/Berlin"
-   },
-   "end": {
-    "dateTime": "2025-09-03T21:30:00+02:00",
-    "timeZone": "Europe/Berlin"
-   }
-  },
-  {
    "htmlLink": "https://www.google.com/calendar/event?eid=NGI1OWhubmtmcjJsMThwYTBvNzJhMjAwdjMgMWNxOTZhMDdrZmJodWRwYjFkczdpNzI1cWNAZw",
    "summary": "Tag des offenen Denkmals",
    "description": "Abschlussveranstaltung des 4. Seifersdorfer Schloss- und Parksommers.\n\nStündlich Führungen zur Schlossgeschichte im Schlosspark mit Infos zur Sanierung.\n\n14:00 Konzert in der Seifersdorfer Kirche mit Mathias Schmutzler (Trompete), Magdalena Schmutzler (Harfe) und Gottfried Trepte (Orgel).",
@@ -36,6 +23,19 @@
    },
    "end": {
     "dateTime": "2025-10-01T21:30:00+02:00",
+    "timeZone": "Europe/Berlin"
+   }
+  },
+  {
+   "htmlLink": "https://www.google.com/calendar/event?eid=NW40anJzZG4zcGt1MzhtMzQ5aXN0bG9ucXNfMjAyNTEwMDVUMTIwMDAwWiAxY3E5NmEwN2tmYmh1ZHBiMWRzN2k3MjVxY0Bn",
+   "summary": "Sanierungscafé im Schlosspark",
+   "description": "mit Führungen / Regenvariante Kirchgemeindehaus",
+   "start": {
+    "dateTime": "2025-10-05T14:00:00+02:00",
+    "timeZone": "Europe/Berlin"
+   },
+   "end": {
+    "dateTime": "2025-10-05T17:00:00+02:00",
     "timeZone": "Europe/Berlin"
    }
   }
