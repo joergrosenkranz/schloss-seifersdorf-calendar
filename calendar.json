@@ -27,15 +27,15 @@
    }
   },
   {
-   "htmlLink": "https://www.google.com/calendar/event?eid=Z2tiOWtmczFwZWcxYjQ3dWFxamJpM2gzZmNfMjAyNjA2MDNUMTcwMDAwWiAxY3E5NmEwN2tmYmh1ZHBiMWRzN2k3MjVxY0Bn",
-   "summary": "Vorstandssitzung",
-   "description": "Vorstandssitzung des Fördervereins ",
+   "htmlLink": "https://www.google.com/calendar/event?eid=X2VkaW1pcGo1ZTlwbThycmljb21qNGMxaTZvbzNhYzlrODFwbTZxM2NkdHBuNmJiamNsa21jcGJpZWRpNnVzajY1cGk2YSAxY3E5NmEwN2tmYmh1ZHBiMWRzN2k3MjVxY0Bn",
+   "summary": "Frühschoppen am Himmelfahrtstag",
+   "description": "Frühschoppen mit der Clowngruppe Schneckenburg im Schlosspark. Aufgrund der Sanierungsarbeiten am Schloss findet die Veranstaltung im Schlosspark statt. Spenden für das Schloss Seifersdorf willkommen.",
    "start": {
-    "dateTime": "2026-06-03T19:00:00+02:00",
+    "dateTime": "2026-05-14T10:00:00+02:00",
     "timeZone": "Europe/Berlin"
    },
    "end": {
-    "dateTime": "2026-06-03T21:30:00+02:00",
+    "dateTime": "2026-05-14T13:00:00+02:00",
     "timeZone": "Europe/Berlin"
    }
   }
