@@ -1,19 +1,6 @@
 {
  "items": [
   {
-   "htmlLink": "https://www.google.com/calendar/event?eid=NW40anJzZG4zcGt1MzhtMzQ5aXN0bG9ucXNfMjAyNjA1MDNUMTIwMDAwWiAxY3E5NmEwN2tmYmh1ZHBiMWRzN2k3MjVxY0Bn",
-   "summary": "Sanierungscafé im Schlosspark",
-   "description": "mit Führungen / Regenvariante Kirchgemeindehaus",
-   "start": {
-    "dateTime": "2026-05-03T14:00:00+02:00",
-    "timeZone": "Europe/Berlin"
-   },
-   "end": {
-    "dateTime": "2026-05-03T17:00:00+02:00",
-    "timeZone": "Europe/Berlin"
-   }
-  },
-  {
    "htmlLink": "https://www.google.com/calendar/event?eid=Z2tiOWtmczFwZWcxYjQ3dWFxamJpM2gzZmNfMjAyNjA1MDZUMTcwMDAwWiAxY3E5NmEwN2tmYmh1ZHBiMWRzN2k3MjVxY0Bn",
    "summary": "Vorstandssitzung",
    "description": "Vorstandssitzung des Fördervereins ",
@@ -37,6 +24,17 @@
    "end": {
     "dateTime": "2026-05-14T13:00:00+02:00",
     "timeZone": "Europe/Berlin"
+   }
+  },
+  {
+   "htmlLink": "https://www.google.com/calendar/event?eid=X2VkaW1pcGo1ZTlwbThycmljb21qNGMxaTZvbzNhY3BoODFwbTZxM2NkdHBuNmJiamNsa21jcGJpZWRpNnVzajY1cGk2YSAxY3E5NmEwN2tmYmh1ZHBiMWRzN2k3MjVxY0Bn",
+   "summary": "„Park erwacht\" – Tag der Parks und Gärten",
+   "description": "Eröffnung des 5. Schloss- und Parksommers. Mit Schülern der Kreismusikschule Bautzen (Außenstelle Radeberg) und Studenten der Hochschule für Musik Dresden.",
+   "start": {
+    "date": "2026-05-31"
+   },
+   "end": {
+    "date": "2026-06-01"
    }
   }
  ]
