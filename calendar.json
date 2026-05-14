@@ -1,19 +1,6 @@
 {
  "items": [
   {
-   "htmlLink": "https://www.google.com/calendar/event?eid=X2VkaW1pcGo1ZTlwbThycmljb21qNGMxaTZvbzNhYzlrODFwbTZxM2NkdHBuNmJiamNsa21jcGJpZWRpNnVzajY1cGk2YSAxY3E5NmEwN2tmYmh1ZHBiMWRzN2k3MjVxY0Bn",
-   "summary": "Frühschoppen am Himmelfahrtstag",
-   "description": "Frühschoppen mit der Clowngruppe Schneckenburg im Schlosspark. Aufgrund der Sanierungsarbeiten am Schloss findet die Veranstaltung im Schlosspark statt. Spenden für das Schloss Seifersdorf willkommen.",
-   "start": {
-    "dateTime": "2026-05-14T10:00:00+02:00",
-    "timeZone": "Europe/Berlin"
-   },
-   "end": {
-    "dateTime": "2026-05-14T13:00:00+02:00",
-    "timeZone": "Europe/Berlin"
-   }
-  },
-  {
    "htmlLink": "https://www.google.com/calendar/event?eid=X2VkaW1pcGo1ZTlwbThycmljb21qNGMxaTZvbzNhY3BoODFwbTZxM2NkdHBuNmJiamNsa21jcGJpZWRpNnVzajY1cGk2YSAxY3E5NmEwN2tmYmh1ZHBiMWRzN2k3MjVxY0Bn",
    "summary": "„Park erwacht\" – Tag der Parks und Gärten",
    "description": "Eröffnung des 5. Schloss- und Parksommers. Mit Schülern der Kreismusikschule Bautzen (Außenstelle Radeberg) und Studenten der Hochschule für Musik Dresden.",
@@ -34,6 +21,19 @@
    },
    "end": {
     "dateTime": "2026-06-03T21:30:00+02:00",
+    "timeZone": "Europe/Berlin"
+   }
+  },
+  {
+   "htmlLink": "https://www.google.com/calendar/event?eid=NW40anJzZG4zcGt1MzhtMzQ5aXN0bG9ucXNfMjAyNjA2MDdUMTIwMDAwWiAxY3E5NmEwN2tmYmh1ZHBiMWRzN2k3MjVxY0Bn",
+   "summary": "Sanierungscafé im Schlosspark",
+   "description": "mit Führungen / Regenvariante Kirchgemeindehaus",
+   "start": {
+    "dateTime": "2026-06-07T14:00:00+02:00",
+    "timeZone": "Europe/Berlin"
+   },
+   "end": {
+    "dateTime": "2026-06-07T17:00:00+02:00",
     "timeZone": "Europe/Berlin"
    }
   }
