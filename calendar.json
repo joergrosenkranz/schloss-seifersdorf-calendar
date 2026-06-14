@@ -1,17 +1,6 @@
 {
  "items": [
   {
-   "htmlLink": "https://www.google.com/calendar/event?eid=X2VkaW1pcGo1ZTlwbThycmljb21qNGMxaTZvbzNjYzlrODFwbTZxM2NkdHBuNmJiamNsa21jcGJpZWRpNnVzajY1cGk2YSAxY3E5NmEwN2tmYmh1ZHBiMWRzN2k3MjVxY0Bn",
-   "summary": "Handwerkermarkt im Schlosspark",
-   "description": "Traditioneller Handwerkermarkt im Schlosspark Seifersdorf.",
-   "start": {
-    "date": "2026-06-14"
-   },
-   "end": {
-    "date": "2026-06-15"
-   }
-  },
-  {
    "htmlLink": "https://www.google.com/calendar/event?eid=Z2tiOWtmczFwZWcxYjQ3dWFxamJpM2gzZmNfMjAyNjA3MDFUMTcwMDAwWiAxY3E5NmEwN2tmYmh1ZHBiMWRzN2k3MjVxY0Bn",
    "summary": "Vorstandssitzung",
    "description": "Vorstandssitzung des Fördervereins ",
@@ -33,6 +22,19 @@
    },
    "end": {
     "date": "2026-07-06"
+   }
+  },
+  {
+   "htmlLink": "https://www.google.com/calendar/event?eid=NW40anJzZG4zcGt1MzhtMzQ5aXN0bG9ucXNfMjAyNjA3MDVUMTIwMDAwWiAxY3E5NmEwN2tmYmh1ZHBiMWRzN2k3MjVxY0Bn",
+   "summary": "Sanierungscafé im Schlosspark",
+   "description": "mit Führungen / Regenvariante Kirchgemeindehaus",
+   "start": {
+    "dateTime": "2026-07-05T14:00:00+02:00",
+    "timeZone": "Europe/Berlin"
+   },
+   "end": {
+    "dateTime": "2026-07-05T17:00:00+02:00",
+    "timeZone": "Europe/Berlin"
    }
   }
  ]
