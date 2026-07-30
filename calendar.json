@@ -1,19 +1,6 @@
 {
  "items": [
   {
-   "htmlLink": "https://www.google.com/calendar/event?eid=NW40anJzZG4zcGt1MzhtMzQ5aXN0bG9ucXNfMjAyNjA4MDJUMTIwMDAwWiAxY3E5NmEwN2tmYmh1ZHBiMWRzN2k3MjVxY0Bn",
-   "summary": "Sanierungscafé im Schlosspark",
-   "description": "mit Führungen / Regenvariante Kirchgemeindehaus",
-   "start": {
-    "dateTime": "2026-08-02T14:00:00+02:00",
-    "timeZone": "Europe/Berlin"
-   },
-   "end": {
-    "dateTime": "2026-08-02T17:00:00+02:00",
-    "timeZone": "Europe/Berlin"
-   }
-  },
-  {
    "htmlLink": "https://www.google.com/calendar/event?eid=Z2tiOWtmczFwZWcxYjQ3dWFxamJpM2gzZmNfMjAyNjA4MDVUMTcwMDAwWiAxY3E5NmEwN2tmYmh1ZHBiMWRzN2k3MjVxY0Bn",
    "summary": "Vorstandssitzung",
    "description": "Vorstandssitzung des Fördervereins ",
@@ -27,14 +14,27 @@
    }
   },
   {
-   "htmlLink": "https://www.google.com/calendar/event?eid=X2VkaW1pcGo1ZTlwbThycmljb21qNGMxaTZvbzNnY2hqODFwbTZxM2NkdHBuNmJiamNsa21jcGJpZWRpNnVzajY1cGk2YSAxY3E5NmEwN2tmYmh1ZHBiMWRzN2k3MjVxY0Bn",
-   "summary": "„Der Freischütz\" – Pocketopera im Schlosspark",
-   "description": "„Der Freischütz\" von Carl Maria von Weber als Pocketopera im Schlosspark. Besonderes Highlight am Eröffnungswochenende des sanierten Schlosses.",
+   "htmlLink": "https://www.google.com/calendar/event?eid=X2VkaW1pcGo1ZTlwbThycmljb21tbXRiZWVkcTY0dGJqNWtwMzBjaG02MHMzMmRhMGVkaG1ncjNmZWRwaXFzcjVkNWo2YXNqamNobm40cGhlY2hpZyAxY3E5NmEwN2tmYmh1ZHBiMWRzN2k3MjVxY0Bn",
+   "summary": "KunstBUS 2026 – Schloss Seifersdorf als Station",
+   "description": "Hop-on-Hop-off Kulturprojekt durch die Westlausitz. Route: Prietitz (Mammutgarten/Herrenhaus) → Pulsnitz (Ostsächsische Kunsthalle/Blaudruckwerkstatt) → Wachau (Orla e.V.) → Seifersdorf (Schloss). Tickets (15 €, Kinder bis 14 J. frei): www.kunstbus-ol.de",
    "start": {
-    "date": "2026-08-23"
+    "date": "2026-08-15"
    },
    "end": {
-    "date": "2026-08-24"
+    "date": "2026-08-17"
+   }
+  },
+  {
+   "htmlLink": "https://www.google.com/calendar/event?eid=X2VkaW1pcGo1ZTlwbThycmljb21qNGMxaTZvbzNnY2hqNWxqbXV0M2tjbHBtOHFiNWRwcG44ZzNqY2RrNm9ycmplY21uNnBiOWNwaW40c3I0ZHRwNmNiajRjayAxY3E5NmEwN2tmYmh1ZHBiMWRzN2k3MjVxY0Bn",
+   "summary": "Festgottesdienst zur Schlosseröffnung im Festzelt",
+   "description": "Festgottesdienst zur Eröffnung des sanierten Schlosses Seifersdorf im Festzelt.",
+   "start": {
+    "dateTime": "2026-08-23T09:30:00+02:00",
+    "timeZone": "Europe/Berlin"
+   },
+   "end": {
+    "dateTime": "2026-08-23T10:30:00+02:00",
+    "timeZone": "Europe/Berlin"
    }
   }
  ]
