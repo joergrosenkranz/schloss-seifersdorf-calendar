@@ -1,19 +1,6 @@
 {
  "items": [
   {
-   "htmlLink": "https://www.google.com/calendar/event?eid=Z2tiOWtmczFwZWcxYjQ3dWFxamJpM2gzZmNfMjAyNjA4MDVUMTcwMDAwWiAxY3E5NmEwN2tmYmh1ZHBiMWRzN2k3MjVxY0Bn",
-   "summary": "Vorstandssitzung",
-   "description": "Vorstandssitzung des Fördervereins ",
-   "start": {
-    "dateTime": "2026-08-05T19:00:00+02:00",
-    "timeZone": "Europe/Berlin"
-   },
-   "end": {
-    "dateTime": "2026-08-05T21:30:00+02:00",
-    "timeZone": "Europe/Berlin"
-   }
-  },
-  {
    "htmlLink": "https://www.google.com/calendar/event?eid=X2VkaW1pcGo1ZTlwbThycmljb21tbXRiZWVkcTY0dGJqNWtwMzBjaG02MHMzMmRhMGVkaG1ncjNmZWRwaXFzcjVkNWo2YXNqamNobm40cGhlY2hpZyAxY3E5NmEwN2tmYmh1ZHBiMWRzN2k3MjVxY0Bn",
    "summary": "KunstBUS 2026 – Schloss Seifersdorf als Station",
    "description": "Hop-on-Hop-off Kulturprojekt durch die Westlausitz. Route: Prietitz (Mammutgarten/Herrenhaus) → Pulsnitz (Ostsächsische Kunsthalle/Blaudruckwerkstatt) → Wachau (Orla e.V.) → Seifersdorf (Schloss). Tickets (15 €, Kinder bis 14 J. frei): www.kunstbus-ol.de",
@@ -34,6 +21,19 @@
    },
    "end": {
     "dateTime": "2026-08-23T10:30:00+02:00",
+    "timeZone": "Europe/Berlin"
+   }
+  },
+  {
+   "htmlLink": "https://www.google.com/calendar/event?eid=X2VkaW1pcGo1ZTlwbThycmljb21qNGMxaTZvbzNnY2hqNWxwN2FyajRjdGdtc3BxMGVkaG1ncjNmZWRwaXFzcjVkNWo2YXNqamNobm40cGhlY2hpZyAxY3E5NmEwN2tmYmh1ZHBiMWRzN2k3MjVxY0Bn",
+   "summary": "Rundgang durch das Schloss Seifersdorf (Eröffnungswochenende)",
+   "description": "Rundgang durch das sanierte Schloss in ausgewählten Räumen. Ab 12:00 Uhr.",
+   "start": {
+    "dateTime": "2026-08-23T12:00:00+02:00",
+    "timeZone": "Europe/Berlin"
+   },
+   "end": {
+    "dateTime": "2026-08-23T16:00:00+02:00",
     "timeZone": "Europe/Berlin"
    }
   }
