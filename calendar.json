@@ -13,8 +13,7 @@
   },
   {
    "htmlLink": "https://www.google.com/calendar/event?eid=X2VkaW1pcGo1ZTlwbThycmljb21qNGMxaTZvbzNnY2hqNWxqbXV0M2tjbHBtOHFiNWRwcG44ZzNqY2RrNm9ycmplY21uNnBiOWNwaW40c3I0ZHRwNmNiajRjayAxY3E5NmEwN2tmYmh1ZHBiMWRzN2k3MjVxY0Bn",
-   "summary": "Festgottesdienst zur Schlosseröffnung im Festzelt",
-   "description": "Festgottesdienst zur Eröffnung des sanierten Schlosses Seifersdorf im Festzelt.",
+   "summary": "Festgottesdienst im Festzelt",
    "start": {
     "dateTime": "2026-08-23T09:30:00+02:00",
     "timeZone": "Europe/Berlin"
@@ -25,15 +24,15 @@
    }
   },
   {
-   "htmlLink": "https://www.google.com/calendar/event?eid=X2VkaW1pcGo1ZTlwbThycmljb21qNGMxaTZvbzNnY2hqNWxwN2FyajRjdGdtc3BxMGVkaG1ncjNmZWRwaXFzcjVkNWo2YXNqamNobm40cGhlY2hpZyAxY3E5NmEwN2tmYmh1ZHBiMWRzN2k3MjVxY0Bn",
-   "summary": "Rundgang durch das Schloss Seifersdorf (Eröffnungswochenende)",
-   "description": "Rundgang durch das sanierte Schloss in ausgewählten Räumen. Ab 12:00 Uhr.",
+   "htmlLink": "https://www.google.com/calendar/event?eid=X2VkaW1pcGo1ZTlwbThycmljb21qNGMxaTZvbzNnY2hqNWxqNzRwYjllZGhtZ3RiNWVodDQwc3IzZDFtNnVzcmo1bHBtYXFiNmNscDc2cDNmZTlqMnNwMzUgMWNxOTZhMDdrZmJodWRwYjFkczdpNzI1cWNAZw",
+   "summary": "„Der Freischütz\" – Pocket-Opera (Landesbühnen Sachsen)",
+   "description": "200 Jahre Carl Maria von Weber. Pocket-Opera von den Landesbühnen Sachsen. Benefizkonzert des Fördervereins Seifersdorfer Schloss e.V. Bei Regen im Festzelt. Kartenbestellung: info@schloss-seifersdorf.de",
    "start": {
-    "dateTime": "2026-08-23T12:00:00+02:00",
+    "dateTime": "2026-08-23T16:00:00+02:00",
     "timeZone": "Europe/Berlin"
    },
    "end": {
-    "dateTime": "2026-08-23T16:00:00+02:00",
+    "dateTime": "2026-08-23T18:00:00+02:00",
     "timeZone": "Europe/Berlin"
    }
   }
