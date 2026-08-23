@@ -1,19 +1,6 @@
 {
  "items": [
   {
-   "htmlLink": "https://www.google.com/calendar/event?eid=X2VkaW1pcGo1ZTlwbThycmljb21qNGMxaTZvbzNnY2hqNWxqNzRwYjllZGhtZ3RiNWVodDQwc3IzZDFtNnVzcmo1bHBtYXFiNmNscDc2cDNmZTlqMnNwMzUgMWNxOTZhMDdrZmJodWRwYjFkczdpNzI1cWNAZw",
-   "summary": "„Der Freischütz\" – Pocket-Opera (Landesbühnen Sachsen)",
-   "description": "200 Jahre Carl Maria von Weber. Pocket-Opera von den Landesbühnen Sachsen. Benefizkonzert des Fördervereins Seifersdorfer Schloss e.V. Bei Regen im Festzelt. Kartenbestellung: info@schloss-seifersdorf.de",
-   "start": {
-    "dateTime": "2026-08-23T16:00:00+02:00",
-    "timeZone": "Europe/Berlin"
-   },
-   "end": {
-    "dateTime": "2026-08-23T18:00:00+02:00",
-    "timeZone": "Europe/Berlin"
-   }
-  },
-  {
    "htmlLink": "https://www.google.com/calendar/event?eid=Z2tiOWtmczFwZWcxYjQ3dWFxamJpM2gzZmNfMjAyNjA5MDJUMTcwMDAwWiAxY3E5NmEwN2tmYmh1ZHBiMWRzN2k3MjVxY0Bn",
    "summary": "Vorstandssitzung",
    "description": "Vorstandssitzung des Fördervereins ",
@@ -35,6 +22,17 @@
    },
    "end": {
     "date": "2026-09-06"
+   }
+  },
+  {
+   "htmlLink": "https://www.google.com/calendar/event?eid=X2VkaW1pcGo1ZTlwbThycmljb21qNGMxaTZvbzNpYzlqODFwbTZxM2NkdHBuNmJiamNsa21jcGJpZWRpNnVzajY1cGk2YSAxY3E5NmEwN2tmYmh1ZHBiMWRzN2k3MjVxY0Bn",
+   "summary": "Tag des offenen Denkmals – Konzert im Schloss",
+   "description": "Abschluss des 5. Schloss- und Parksommers mit einem Konzert im Saal des Schlosses.",
+   "start": {
+    "date": "2026-09-13"
+   },
+   "end": {
+    "date": "2026-09-14"
    }
   }
  ]
