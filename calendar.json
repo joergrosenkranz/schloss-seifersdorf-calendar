@@ -1,18 +1,6 @@
 {
  "items": [
   {
-   "htmlLink": "https://www.google.com/calendar/event?eid=X2VkaW1pcGo1ZTlwbThycmljb21qNGMxaTZvbzNnY2hqNWxqbXV0M2tjbHBtOHFiNWRwcG44ZzNqY2RrNm9ycmplY21uNnBiOWNwaW40c3I0ZHRwNmNiajRjayAxY3E5NmEwN2tmYmh1ZHBiMWRzN2k3MjVxY0Bn",
-   "summary": "Festgottesdienst im Festzelt",
-   "start": {
-    "dateTime": "2026-08-23T09:30:00+02:00",
-    "timeZone": "Europe/Berlin"
-   },
-   "end": {
-    "dateTime": "2026-08-23T10:30:00+02:00",
-    "timeZone": "Europe/Berlin"
-   }
-  },
-  {
    "htmlLink": "https://www.google.com/calendar/event?eid=X2VkaW1pcGo1ZTlwbThycmljb21qNGMxaTZvbzNnY2hqNWxqNzRwYjllZGhtZ3RiNWVodDQwc3IzZDFtNnVzcmo1bHBtYXFiNmNscDc2cDNmZTlqMnNwMzUgMWNxOTZhMDdrZmJodWRwYjFkczdpNzI1cWNAZw",
    "summary": "„Der Freischütz\" – Pocket-Opera (Landesbühnen Sachsen)",
    "description": "200 Jahre Carl Maria von Weber. Pocket-Opera von den Landesbühnen Sachsen. Benefizkonzert des Fördervereins Seifersdorfer Schloss e.V. Bei Regen im Festzelt. Kartenbestellung: info@schloss-seifersdorf.de",
@@ -36,6 +24,17 @@
    "end": {
     "dateTime": "2026-09-02T21:30:00+02:00",
     "timeZone": "Europe/Berlin"
+   }
+  },
+  {
+   "htmlLink": "https://www.google.com/calendar/event?eid=X2VkaW1pcGo1ZTlwbThycmljb21qNGMxaTZvbzNpYzFsODFwbTZxM2NkdHBuNmJiamNsa21jcGJpZWRpNnVzajY1cGk2YSAxY3E5NmEwN2tmYmh1ZHBiMWRzN2k3MjVxY0Bn",
+   "summary": "Rock im Schlosspark (3. Auflage)",
+   "description": "Open-Air-Rockkonzert im Schlosspark Seifersdorf – zum dritten Mal.",
+   "start": {
+    "date": "2026-09-05"
+   },
+   "end": {
+    "date": "2026-09-06"
    }
   }
  ]
