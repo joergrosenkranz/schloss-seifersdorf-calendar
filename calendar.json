@@ -1,17 +1,6 @@
 {
  "items": [
   {
-   "htmlLink": "https://www.google.com/calendar/event?eid=X2VkaW1pcGo1ZTlwbThycmljb21qNGMxaTZvbzNpYzFsODFwbTZxM2NkdHBuNmJiamNsa21jcGJpZWRpNnVzajY1cGk2YSAxY3E5NmEwN2tmYmh1ZHBiMWRzN2k3MjVxY0Bn",
-   "summary": "Rock im Schlosspark (3. Auflage)",
-   "description": "Open-Air-Rockkonzert im Schlosspark Seifersdorf – zum dritten Mal.",
-   "start": {
-    "date": "2026-09-05"
-   },
-   "end": {
-    "date": "2026-09-06"
-   }
-  },
-  {
    "htmlLink": "https://www.google.com/calendar/event?eid=X2VkaW1pcGo1ZTlwbThycmljb21qNGMxaTZvbzNpYzlqODFwbTZxM2NkdHBuNmJiamNsa21jcGJpZWRpNnVzajY1cGk2YSAxY3E5NmEwN2tmYmh1ZHBiMWRzN2k3MjVxY0Bn",
    "summary": "Tag des offenen Denkmals – Konzert im Schloss",
    "description": "Abschluss des 5. Schloss- und Parksommers mit einem Konzert im Saal des Schlosses.",
@@ -32,6 +21,19 @@
    },
    "end": {
     "dateTime": "2026-10-04T17:00:00+02:00",
+    "timeZone": "Europe/Berlin"
+   }
+  },
+  {
+   "htmlLink": "https://www.google.com/calendar/event?eid=Z2tiOWtmczFwZWcxYjQ3dWFxamJpM2gzZmNfMjAyNjEwMDdUMTcwMDAwWiAxY3E5NmEwN2tmYmh1ZHBiMWRzN2k3MjVxY0Bn",
+   "summary": "Vorstandssitzung",
+   "description": "Vorstandssitzung des Fördervereins ",
+   "start": {
+    "dateTime": "2026-10-07T19:00:00+02:00",
+    "timeZone": "Europe/Berlin"
+   },
+   "end": {
+    "dateTime": "2026-10-07T21:30:00+02:00",
     "timeZone": "Europe/Berlin"
    }
   }
