@@ -1,42 +1,38 @@
 {
  "items": [
   {
-   "htmlLink": "https://www.google.com/calendar/event?eid=Z2tiOWtmczFwZWcxYjQ3dWFxamJpM2gzZmNfMjAyNjEyMDJUMTgwMDAwWiAxY3E5NmEwN2tmYmh1ZHBiMWRzN2k3MjVxY0Bn",
-   "summary": "Vorstandssitzung",
-   "description": "Vorstandssitzung des Fördervereins ",
+   "htmlLink": "https://www.google.com/calendar/event?eid=XzcwcDNjZDlvNzRvNGFiOWs2NHJqY2I5azY1MTNpYmEyNzByMzBiOW84NTBrNGUxaDY1MGs2ZWExODQgMWNxOTZhMDdrZmJodWRwYjFkczdpNzI1cWNAZw",
+   "summary": "Mitgliederversammlung",
    "start": {
-    "dateTime": "2026-12-02T19:00:00+01:00",
+    "dateTime": "2026-11-13T18:00:00+01:00",
     "timeZone": "Europe/Berlin"
    },
    "end": {
-    "dateTime": "2026-12-02T21:30:00+01:00",
+    "dateTime": "2026-11-13T21:30:00+01:00",
     "timeZone": "Europe/Berlin"
    }
   },
   {
-   "htmlLink": "https://www.google.com/calendar/event?eid=NW40anJzZG4zcGt1MzhtMzQ5aXN0bG9ucXNfMjAyNjEyMDZUMTMwMDAwWiAxY3E5NmEwN2tmYmh1ZHBiMWRzN2k3MjVxY0Bn",
-   "summary": "Sanierungscafé im Schlosspark",
-   "description": "mit Führungen / Regenvariante Kirchgemeindehaus",
+   "htmlLink": "https://www.google.com/calendar/event?eid=X2Vwbm40dDNpYzVqaXFwcmlkNWltNnEzNWRwbTYycmo0NWtwMzBjaG02NG9qMmRxMGNwbm1hc2o0Y2xwN2NwYmljbGttc2JiamNsa21jcGJpZWRpNnVzajZjbHAycXNyM2QxbTZ1c3JqIDFjcTk2YTA3a2ZiaHVkcGIxZHM3aTcyNXFjQGc",
+   "summary": "Vortrag: Zwischen Klöstern und Kyladen – Griechenlands magische Feste",
+   "description": "Vortrag mit Margit Avemark und Konrad Schulze.\nVeranstalter: Förderverein Seifersdorfer Schloss e. V.\nWegen Sanierungsarbeiten am Schloss findet der Vortrag im Kirchgemeindehaus statt.\nSpenden für das Schloss: www.schloss-seifersdorf.de",
    "start": {
-    "dateTime": "2026-12-06T14:00:00+01:00",
+    "dateTime": "2026-11-17T19:00:00+01:00",
     "timeZone": "Europe/Berlin"
    },
    "end": {
-    "dateTime": "2026-12-06T17:00:00+01:00",
+    "dateTime": "2026-11-17T21:00:00+01:00",
     "timeZone": "Europe/Berlin"
    }
   },
   {
-   "htmlLink": "https://www.google.com/calendar/event?eid=NW40anJzZG4zcGt1MzhtMzQ5aXN0bG9ucXNfMjAyNzAxMDNUMTMwMDAwWiAxY3E5NmEwN2tmYmh1ZHBiMWRzN2k3MjVxY0Bn",
-   "summary": "Sanierungscafé im Schlosspark",
-   "description": "mit Führungen / Regenvariante Kirchgemeindehaus",
+   "htmlLink": "https://www.google.com/calendar/event?eid=XzhjcWo4ZGhpOHAxNGFiOWw4Y3JqOGI5azg0cWphYjlwNmdyMzhiYTE4Y3NrOGM5cDY0cGs2ZTlsOG8gMWNxOTZhMDdrZmJodWRwYjFkczdpNzI1cWNAZw",
+   "summary": "Advent im Pfarrhof",
    "start": {
-    "dateTime": "2027-01-03T14:00:00+01:00",
-    "timeZone": "Europe/Berlin"
+    "date": "2026-12-13"
    },
    "end": {
-    "dateTime": "2027-01-03T17:00:00+01:00",
-    "timeZone": "Europe/Berlin"
+    "date": "2026-12-14"
    }
   }
  ]
