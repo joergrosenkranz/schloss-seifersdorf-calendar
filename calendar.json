@@ -1,18 +1,6 @@
 {
  "items": [
   {
-   "htmlLink": "https://www.google.com/calendar/event?eid=XzcwcDNjZDlvNzRvNGFiOWs2NHJqY2I5azY1MTNpYmEyNzByMzBiOW84NTBrNGUxaDY1MGs2ZWExODQgMWNxOTZhMDdrZmJodWRwYjFkczdpNzI1cWNAZw",
-   "summary": "Mitgliederversammlung",
-   "start": {
-    "dateTime": "2026-11-13T18:00:00+01:00",
-    "timeZone": "Europe/Berlin"
-   },
-   "end": {
-    "dateTime": "2026-11-13T21:30:00+01:00",
-    "timeZone": "Europe/Berlin"
-   }
-  },
-  {
    "htmlLink": "https://www.google.com/calendar/event?eid=X2Vwbm40dDNpYzVqaXFwcmlkNWltNnEzNWRwbTYycmo0NWtwMzBjaG02NG9qMmRxMGNwbm1hc2o0Y2xwN2NwYmljbGttc2JiamNsa21jcGJpZWRpNnVzajZjbHAycXNyM2QxbTZ1c3JqIDFjcTk2YTA3a2ZiaHVkcGIxZHM3aTcyNXFjQGc",
    "summary": "Vortrag: Zwischen Klöstern und Kyladen – Griechenlands magische Feste",
    "description": "Vortrag mit Margit Avemark und Konrad Schulze.\nVeranstalter: Förderverein Seifersdorfer Schloss e. V.\nWegen Sanierungsarbeiten am Schloss findet der Vortrag im Kirchgemeindehaus statt.\nSpenden für das Schloss: www.schloss-seifersdorf.de",
@@ -33,6 +21,19 @@
    },
    "end": {
     "date": "2026-12-14"
+   }
+  },
+  {
+   "htmlLink": "https://www.google.com/calendar/event?eid=Z2tiOWtmczFwZWcxYjQ3dWFxamJpM2gzZmNfMjAyNzAxMDZUMTgwMDAwWiAxY3E5NmEwN2tmYmh1ZHBiMWRzN2k3MjVxY0Bn",
+   "summary": "Vorstandssitzung",
+   "description": "Vorstandssitzung des Fördervereins ",
+   "start": {
+    "dateTime": "2027-01-06T19:00:00+01:00",
+    "timeZone": "Europe/Berlin"
+   },
+   "end": {
+    "dateTime": "2027-01-06T21:30:00+01:00",
+    "timeZone": "Europe/Berlin"
    }
   }
  ]
